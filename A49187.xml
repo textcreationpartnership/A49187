@@ -1,0 +1,772 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practical discourse concerning repentance and the nature of the Christian religion. By A. Lortie, rector of Barton, near Nottingham. Imprimatur, Oct. ult. 1692. Guil. Lancaster, R.P.D. Hen. Episc. Lond. à Sacris.</title>
+            <author>Lortie, André, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 108 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49187</idno>
+            <idno type="STC">Wing L3078</idno>
+            <idno type="STC">ESTC R218635</idno>
+            <idno type="EEBO-CITATION">99830208</idno>
+            <idno type="PROQUEST">99830208</idno>
+            <idno type="VID">34658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2034:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practical discourse concerning repentance and the nature of the Christian religion. By A. Lortie, rector of Barton, near Nottingham. Imprimatur, Oct. ult. 1692. Guil. Lancaster, R.P.D. Hen. Episc. Lond. à Sacris.</title>
+                  <author>Lortie, André, d. 1706.</author>
+               </titleStmt>
+               <extent>[8], 134, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Will. Rogers, at the Sun, over-against St. Dunstan's Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A practical discourse concerning repentance, &amp;c.</note>
+                  <note>"A morning and evening prayer" has caption title on p. 99; "The recapitulation, .." has caption title on p. 116; register and pagination are continuous.</note>
+                  <note>Errata at foot of p. 134.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Christianity --  Essence, genius, nature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34658:1"/>
+            <p>A <hi>Practical Diſcourſe</hi> Concerning REPENTANCE, And the NATURE OF THE <hi>Chriſtian Religion.</hi>
+            </p>
+            <p>By <hi>A. LORTIE,</hi> Rector of BARTON, near <hi>Nottingham.</hi>
+            </p>
+            <p>IMPRIMATUR,</p>
+            <p>Oct. <hi>ult.</hi> 1692.</p>
+            <p>
+               <hi>Guil. Lancaſter, R.P.D. Hen. Epiſc. Lond. à Sacris.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Will. Rogers,</hi> at the <hi>Sun,</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34658:2"/>
+            <pb facs="tcp:34658:2"/>
+            <head>
+               <hi>To My much Honoured Lord, and Noble Benefactor,</hi> The Right Honourable, <hi>AND</hi> Right Reverend Father in GOD, <hi>HENRY, L<hi rend="sup">d</hi> Biſhop of</hi> LONDON, <hi>One of the Lords of Their Majeſties moſt Honourable Privy-Council,</hi> &amp;c.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>THE incomparable Good<g ref="char:EOLhyphen"/>neſs and Affability your Lordſhip uſeth towards all, not
+<pb facs="tcp:34658:3"/>excepting the meanest Perſons, encourageth me humbly to lay at your Lordſhip's Feet, this plain Practical Diſcourſe, which as I have had the comfort to under<g ref="char:EOLhyphen"/>ſtand that they were edified, who heard it, ſo I hope it may be of farther uſe, when more leiſurely conſidered, and perhaps may ſerve to give the common ſort of People a clearer and more diſtinct No<g ref="char:EOLhyphen"/>tion than they uſually have, of their indiſpenſable Duty, and of that wiſe and holy Religion which they profeſs.</p>
+            <p>The zeal of doing ſomething towards this, before I die, ac<g ref="char:EOLhyphen"/>cording to my little Sphere, made me deſirous to leave this Diſcourſe with my Pariſhioners. It would be indeed an unſpeakable ſatisfa<g ref="char:EOLhyphen"/>ction to me, if it prove any ad<g ref="char:EOLhyphen"/>vantage
+<pb facs="tcp:34658:3"/>to them; but chiefly, if your Lordſhip might condeſcend ſo far as to accept it, as a Token of my most humble and hearty Gratitude (inſtead of what I ſhould, but am not able to per<g ref="char:EOLhyphen"/>form) for the great and many Obligations laid upon my Relati<g ref="char:EOLhyphen"/>ons, and my ſelf in particular, for which we ſhall ever ſtand in<g ref="char:EOLhyphen"/>debted to your Lordſhip.</p>
+            <p>
+               <hi>My Lord,</hi>
+            </p>
+            <p>Your Lordſhip, and all the World knows it very well, hath not only been ready upon all Oc<g ref="char:EOLhyphen"/>caſions to aſſert and maintain, even with the most eminent dan<g ref="char:EOLhyphen"/>ger of your Life, your Country's most admirable Laws and Refor<g ref="char:EOLhyphen"/>mation; but has been a common Father to all the Perſecuted of
+<pb facs="tcp:34658:4"/>
+               <hi>France,</hi> who were forc'd to flee from their Native Country.</p>
+            <p>How many Souls can declare to the World, and ſhall teſtifie at the Great Day, before our bleſſed Lord and his holy Angels, to your Lordſhip's immortal Glory, that they have taſted of no other Bread in this their Diſtreſs, but that which your Lordſhip did put into their hands! There my Fa<g ref="char:EOLhyphen"/>ther will ſtand, with his Family, in the fore-front of that vast multitude of the Witneſſes of your Lordſhip's unbounded Charity; and we ſhall thereby convince the World, that Chriſtianity was not then lost among Men.</p>
+            <pb facs="tcp:34658:4"/>
+            <p>In the mean while, my Lord, I ſubmit my ſelf wholly, and this little Treatiſe, to your Lordſhip, aſſuring your Lordſhip it is meant candidly, and purely for God's Glory, and the Salvation of Souls, proceeding from a ſincerely peni<g ref="char:EOLhyphen"/>tent Heart, having ſtudied no<g ref="char:EOLhyphen"/>thing ſo much as this Subject, theſe ſeveral Years, in which I have ſo often been in a ſtate of dy<g ref="char:EOLhyphen"/>ing.</p>
+            <p>I ſhall add no more, but this, That the chiefest Bleſſing I ſhall always ask of GOD; and my chiefest Happineſs the remainder of my Life, will be to ſee God's Glory further'd, and your Noble Houſe, my Lord, and Yourſelf in particular, proſper and flou<g ref="char:EOLhyphen"/>riſh, to the Honour and Felicity of this Church and Nation.</p>
+            <pb facs="tcp:34658:5"/>
+            <p>I humbly beg your Lordſhip's Bleſſing. I am,</p>
+            <closer>
+               <salute>My LORD,</salute> 
+               <signed>
+                  <hi>Your Lordſhip's Moſt Humble, moſt Dutiful, and moſt Obliged Servant,</hi>
+A. LORTIE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:34658:5"/>
+            <head>A <hi>Practical Diſcourſe</hi> Concerning REPENTANCE, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>JOHN the Baptist</hi> came Preaching, as we read, <hi>Mat.</hi> 3.1, 2. and ſaying, <hi>Repent ye, for the kingdom of heaven is at hand.</hi>
+            </p>
+            <p>That was the Voice that cried before the Meſſiah, <hi>Prepare ye the way of the Lord, make his paths ſtreight,</hi> Luk. 3.4.</p>
+            <p>And at the eighth Verſe of that Chapter, we learn what was to be done in order to that, <hi>viz.</hi>
+               <pb n="2" facs="tcp:34658:6"/>to Repent, without any further excuſe, upon no account what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <p>Repentance indeed is a Duty incumbent upon all Men, ſeeing all have ſinned, and therefore muſt certainly be for ever un<g ref="char:EOLhyphen"/>done, except they Repent.</p>
+            <p>As the World goes, it is a Duty to be inſiſted upon at all times. But if it be ſpecially call'd for at ſome Seaſons more than others, it is ſurely in times of Publick Humiliation, when we addreſs our ſelves to God, or he addreſſes himſelf to us, and whenſoever we are call'd to re<g ref="char:EOLhyphen"/>new our Engagements to Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>All we can do without it, is but Hypocriſie, and a meer moc<g ref="char:EOLhyphen"/>king of Almighty God.</p>
+            <p>
+               <hi>John the Baptist,</hi> it ſeems, eſteem'd it the true and only Pre<g ref="char:EOLhyphen"/>parative
+<pb n="3" facs="tcp:34658:6"/>for the Chriſtian Religi<g ref="char:EOLhyphen"/>on: <hi>Repent ye,</hi> ſays he, <hi>for the king<g ref="char:EOLhyphen"/>dom of heaven is at hand.</hi>
+            </p>
+            <p>All Men are therefore highly concern'd to have a right Notion of Repentance; otherwiſe they can never be good Chriſtians.</p>
+            <p>I ſhall endeavour to ſhew, in the following Diſcourſe,</p>
+            <p n="1">I. What Repentance is.</p>
+            <p n="2">II. What is the Nature of the Chriſtian Diſpenſation, which is call'd the Kingdom of Heaven.</p>
+            <p n="3">III. What reaſon there was to Repent, the Kingdom of Heaven being at hand; and what reaſon then there is now we ſhould Re<g ref="char:EOLhyphen"/>pent.</p>
+            <p>
+               <hi>And</hi> IV. I ſhall repreſent what manner of Perſons are the Sub<g ref="char:EOLhyphen"/>jects of this heavenly Kingdom; that we may know aſſuredly, whether we are ſuch, or not;
+<pb n="4" facs="tcp:34658:7"/>that if we are, we may praiſe God for it, and continue to be ſo; and if we are not, we may ſee what is to be done to become ſuch.</p>
+            <p>Then I ſhall draw ſome Infe<g ref="char:EOLhyphen"/>rences from the whole.</p>
+            <p>
+               <hi>First,</hi> What Repentance is.</p>
+            <p>For there are too many in the World, take that for Repentance which indeed is no ſuch thing; their Hearts being evil, and there<g ref="char:EOLhyphen"/>fore willing to ſubſtitute any thing in its room, to be excuſed from it.</p>
+            <p>But God is not mocked; and their very Conſciences, were they permitted to ſpeak, would cry aloud againſt them, for their unpardonable blindneſs and folly, in miſtaking ſo eaſily, if not wil<g ref="char:EOLhyphen"/>fully, in ſo clear and plain a matter.</p>
+            <pb n="5" facs="tcp:34658:7"/>
+            <p>Some fancy a fence of Sin to be Repentance. That is, if they are but ſenſible that they have done what ought not to have been done; that they are miſe<g ref="char:EOLhyphen"/>rable Sinners, and that Sin is a moſt wretched and odious thing, which 'twere good never to be guilty of: I ſay, if they do but feel themſelves ſenſible of all this; then they think they are well enough, and are ſo preſumptu<g ref="char:EOLhyphen"/>ous as to hope well of their ſtate, tho' they ſtill continue in their ſins.</p>
+            <p>Others, ſomething more mo<g ref="char:EOLhyphen"/>deſt, do not think it ſufficient to have a bare fence of ſin, if withal they do not entertain a hearty ſorrow for it. But if they do but grieve and weep for their ſins, they queſtion not but they have made full amends for them, altho' they grow never the better,
+<pb n="6" facs="tcp:34658:8"/>but ſtill ſin on, ſtill complaining and ſorrowing for their ſins, and bemoaning their infirmities.</p>
+            <p>But others yet come nearer to the buſineſs; for to all this they will add vows, and reſolutions, and endeavours.</p>
+            <p>They are not only ſenſible that they have done thoſe things which they ought not to have done; they are not only heartily ſorry for it, but they for malſo <hi>good</hi> reſolutions againſt ſin; they vow they will endeavour with all their might never to fall into the ſame temptations, never to com<g ref="char:EOLhyphen"/>mit the faults they have been guilty of, never to yield to their luſts again; and perhaps they endeavour, and that more than once. Why, theſe, all theſe, are ſteps towards Repentance. But I muſt tell ye, as I ſhall anſwer it at the great Day of the Lord,
+<pb n="7" facs="tcp:34658:8"/>all theſe yet are not Repentance; if we go no further than this, we do not truly repent, we die in our ſins, and our iniquities ſhall inevitably be our ruine.</p>
+            <p>Say not, you have wept ſore, you have grieved bitterly, and perhaps faſted often, have ſhun'd the temptation, and avoided the ill company, and reſiſted your luſts as much as ever you could.</p>
+            <p>Theſe were excellent means: but if we have not overcome our ſins, if we commit the ſame faults ſtill; what are we the bet<g ref="char:EOLhyphen"/>ter? What we have done is in<g ref="char:EOLhyphen"/>effectual, we are not then in a ſtate of Repentance.</p>
+            <p>What doth it avail to ſtrive to enter in at the ſtraight Gate, if Men do not actually enter in thereat? For many ſeek to enter in, and yet do not, as we read, <hi>Luke</hi> 13.24.</p>
+            <pb n="8" facs="tcp:34658:9"/>
+            <p>
+               <hi>Ye did run well; who did hin<g ref="char:EOLhyphen"/>der you?</hi> Gal. 5.7.</p>
+            <p>
+               <hi>So run, that ye may obtain,</hi> 1 Cor. 9.24.</p>
+            <p>
+               <hi>When it repented the Lord that he had made man, he ſaid, I will deſtroy man, whom I have created, from the face of the earth, both man and beast; for it re<g ref="char:EOLhyphen"/>penteth me that I have made them,</hi> Gen. 6.6, 7.</p>
+            <p>And as the Lord ſaid, ſo he did. He had not truly repented to have made 'em, if he had not deſtroyed them.</p>
+            <p>For to repent, is not barely to wiſh that what is done, had not been done, but to take quite con<g ref="char:EOLhyphen"/>trary meaſures, and undo, as far as we repent, and as much as we are able, that we had done be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>We read, <hi>Luke</hi> 19.8. when <hi>Zacheus,</hi> the unjuſt Publican, re<g ref="char:EOLhyphen"/>pented,
+<pb n="9" facs="tcp:34658:9"/>he made full reſtitution of all he had got unjuſtly; that is, he entred into a quite oppoſite courſe to his former practices: He ſaid to our Saviour, as ſoon as he was converted, <hi>Lord, the half of my goods I give to the poor, and if I have taken any thing from any man, I reſtore him foru<g ref="char:EOLhyphen"/>fold.</hi>
+            </p>
+            <p>When the Prophet <hi>Iſaiah</hi> ex<g ref="char:EOLhyphen"/>horts the People of <hi>Iſrael</hi> to Re<g ref="char:EOLhyphen"/>pentance, he bids them, <hi>Ceaſe to do evil, and learn to do good,</hi> Iſai. 1.17, 18. <hi>Waſh ye, make you clean, ceaſe to do evil, learn to do well, ſeek judgment, and relieve the oppreſſed.</hi>
+            </p>
+            <p>God himſelf teacheth us what it is to repent, when he ſays in <hi>Ezekiel, If the wicked reſtore the pledge, give again that he had robbed, walk in the ſtatutes of life, without committing iniquity,
+<pb n="10" facs="tcp:34658:10"/>he ſhall ſurely live,</hi> Ezek. 33.15.</p>
+            <p>And <hi>John the Baptist</hi> teached alſo plainly enough, that neither fair Promiſes, holy Vows, and good Reſolutions, nor even a bare Ceſſation of evil, make up Repentance; when he charged the Phariſees and Sadduces, that came to his Baptiſm, to <hi>bring forth fruits meet for repentance. Bring forth, therefore, fruits meet for repent<g ref="char:EOLhyphen"/>ance.</hi> Mat. 3.8. As if (like St. <hi>James,</hi> concerning Faith, <hi>Jam.</hi> 2.18.) he had bid them ſhew their Repen<g ref="char:EOLhyphen"/>tance, and prove it to be right and true, real and ſincere, by good Works, and a holy Life.</p>
+            <p>To the Publicans he ſaid, <hi>Ex<g ref="char:EOLhyphen"/>act no more than that which is ap<g ref="char:EOLhyphen"/>pointed you.</hi> And to the Souldi<g ref="char:EOLhyphen"/>ers, <hi>Do violence to no man, neither accuſe any falſly, and be content with your wages,</hi> Luke 3.13, 14.</p>
+            <pb n="11" facs="tcp:34658:10"/>
+            <p>And at the eleventh Verſe of the ſame Chapter, he ſays to all them that came to be baptized of him: <hi>He that has two coats, let him impart to him that has none; and he that hath meat, let him do likewiſe.</hi>
+            </p>
+            <p>That was his Doctrine: and that's the Doctrine of <hi>Repentance.</hi> That is, in ſhort, as if he had ſaid, <hi>Forſake thoſe ſins you have been guilty of, be ſure you commit them not again, but lead godly lives in all vertue and honeſty: Learn to practice Charity, which is the ſum of the Divine Laws; and then you are right Penitents.</hi>
+            </p>
+            <p>But this is no more than what our own Conſciences dictate to us. I'll refer it to any one that is a Father, and has an undutiful Son; or to him that hath an Enemy.</p>
+            <pb n="12" facs="tcp:34658:11"/>
+            <p>The Father exhorts his Son to leave off his wicked Courſes, and return to his Duty; promiſing upon thoſe Terms to be very good and kind to him.</p>
+            <p>You agree with your Enemy, (on Condition that all old Quar<g ref="char:EOLhyphen"/>rels and Animoſities ſhall be for<g ref="char:EOLhyphen"/>gotten, and he ſhall carry him<g ref="char:EOLhyphen"/>ſelf civilly towards you for the future) to be Friends with him again, to pardon him, and to love him.</p>
+            <p>Now, if either ſuch a Son, or ſuch an Enemy, after a long Com<g ref="char:EOLhyphen"/>plement, and many repeated Proteſtations of Sorrow for what's paſt, and as many Vows and Promiſes of a better Behaviour for the time to come: If, after all this, I ſay, they fell to their old ways, and grew never a jot the better, would you ſeriouſly ſay they have repented?</p>
+            <pb n="13" facs="tcp:34658:11"/>
+            <p>If you could not ſay it, why then will you ſay that you re<g ref="char:EOLhyphen"/>pent, when yet you find no change, no amendment in you?</p>
+            <p>Let this teach us what Repen<g ref="char:EOLhyphen"/>tance is; for, ſure, Repentance towards God is not of another nature, nor ought to be leſs than that we would expect from an Enemy, or a rebellious Child.</p>
+            <p>Away then with all theſe Pre<g ref="char:EOLhyphen"/>tenders to Repentance, which perſiſt ſtill in their ſins.</p>
+            <p>You have been paſſionate and revengeful, full of malice and bitterneſs: Do you ſtill hate your Brother, or your Enemy? could you find in your heart to do him an injury? would you rejoyce at his calamity? would not you be willing to ſerve him? don't you ſtudy the opportunity to ſhew him how heartily you are recon<g ref="char:EOLhyphen"/>ciled with him? can't you abide
+<pb n="14" facs="tcp:34658:12"/>to ſee him, or to ſpeak with him? Why, then, truly you are not in a ſtate of Repentance.</p>
+            <p>You have been an Extortion<g ref="char:EOLhyphen"/>er, or an unjuſt Man; and you have uſed Tricks, and practis'd ill Arts to over-reach and cozen your Neighbours, to ſerve your own Ends.</p>
+            <p>And have you made them a<g ref="char:EOLhyphen"/>mends for it?</p>
+            <p>To be plain, Have you made full reſtitution? Have you nothing left but what is juſtly your own? Do you uſe no more theſe baſe and curſed Tricks? and are you well caution'd againſt them for the future? Had you rather die than wrong any one again? In<g ref="char:EOLhyphen"/>ſtead of Injuſtice, do you now practiſe Charity? If this be not your Caſe, be not deceived, you are not a fit Man for the King<g ref="char:EOLhyphen"/>dom of Heaven. You ſtand in
+<pb n="15" facs="tcp:34658:12"/>great need of Repentance.</p>
+            <p>Have you been an unclean Perſon, or a Drunkard? Don't ſay you are heartily ſorry for all your ſins, and you have ſtriv'd with all your might againſt them. Is it otherwiſe now with you? Are you now chaſte and temperate? Do you ever withſtand the tem<g ref="char:EOLhyphen"/>ptation? Can you deny the wic<g ref="char:EOLhyphen"/>ked Company that entices you to ſin? Do you keep your ſelf now pure and ſober? Had you rather pluck out an Eye, or cut off an Hand than offend? If this be not your diſpoſition, read your Doom, (except you actually re<g ref="char:EOLhyphen"/>pent and amend) 1 Cor. 6.9, 10. <hi>Neither fornicators, nor adul<g ref="char:EOLhyphen"/>terers, nor effeminate, nor drun<g ref="char:EOLhyphen"/>kards, ſhall inherit the kingdom of God.</hi>
+            </p>
+            <p>And ſo for all other Crimes and Vices, as Lying and Swear<g ref="char:EOLhyphen"/>ing,
+<pb n="16" facs="tcp:34658:13"/>
+               <hi>&amp;c.</hi> If you have contracted the Habit and Cuſtom of Swear<g ref="char:EOLhyphen"/>ing, and taking God's Name in vain, then (and then only) you ſhall have repented, when you ſhall have overcome that evil Habit, and accuſtomed your ſelf never to pronounce that ſacred Name but with Adoration and Religion, for God's Glory and Service.</p>
+            <p>If you have been careleſs, and have neglected Religion, then you ſhall have reaſon to think you have repented, when you are become diligent, when you pray frequently and fervently; when you humble your ſelf often in mourning for your ſins, and in faſtings, to ſubdue your ſen<g ref="char:EOLhyphen"/>ſual inclinations, to keep your body under, and bring it into ſubjection; and when you are grown zealous of Good Works,
+<pb n="17" facs="tcp:34658:13"/>and conſtant in all Religious Du<g ref="char:EOLhyphen"/>ties.</p>
+            <p>For <hi>Repentance is a true and real change of Mind, and a con<g ref="char:EOLhyphen"/>verſion from ſin to God.</hi> I ſay, <hi>Repentance is a true change of Mind, not ſome one bare Act of change, but a laſting durable ſtate of new Life.</hi> Otherwiſe 'tis not ſincere: it is but a mock Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>Some Men think, when at the Year's end, or Quarter's end, they go to the Lord's Table, cry out againſt their Sins, form a thouſand Reſolutions, and force themſelves into a Religious Po<g ref="char:EOLhyphen"/>ſture of Mind, after a long Habit of Sin and Careleſneſs: Theſe Men, I ſay, fancy that they have well repented, that they are right Penitents, and that (after this) they may ſafely begin upon a new Score, with an intent to
+<pb n="18" facs="tcp:34658:14"/>repent again (as they call it) at the time appointed. So that, after a day or two, the pious fit is over, or to ſpeak more pro<g ref="char:EOLhyphen"/>perly, the hypocriſie ceaſeth, and they are themſelves again. <hi>They return to their old ſins, as the dog to his vomit again, and the ſow that was waſhed, to her wallowing in the mire,</hi> 2 Pet. 2.22.</p>
+            <p>But do you find a change in you? Are you not the ſame you were five, ten, or twenty Years ago, when you were led by Va<g ref="char:EOLhyphen"/>nity, and you committed thoſe things, whereof vertuous Men, and true Penitents are aſha<g ref="char:EOLhyphen"/>med?</p>
+            <p>Are you now of another Mind? Do you find you ſelf another Man? a new Creature? Have you now better Diſpoſitions?</p>
+            <p>Have you not only ceaſed to do evil, but alſo learn'd to do
+<pb n="19" facs="tcp:34658:14"/>good? For then, and not elſe, are you Penitents.</p>
+            <p>Having thus ſtated the true Notion of Repentance, let us next conſider,</p>
+            <p n="2">II. What we are to underſtand by the Kingdom of Heaven, and what the Nature of it is.</p>
+            <p>It was the Precurſor of the Meſſiah, exhorted Men to Re<g ref="char:EOLhyphen"/>pentance upon the account of the approach of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven: We may be ſure therefore, that by the Kingdom of Heaven, then at hand, is meant the Meſ<g ref="char:EOLhyphen"/>ſiah's diſpenſation or oeeconomy. It was an ordinary expreſſion for it among the <hi>Jews.</hi> They then looked for, and were in expecta<g ref="char:EOLhyphen"/>tion of the Kingdom of Heaven, or the Heavenly Kingdom, mean<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:34658:15"/>the Coming of the Meſſiah in great Power and Glory: They were us'd to call it ſo, becauſe they thought the Redeemer of <hi>Iſrael,</hi> the promis'd Saviour, was to be ſent to them from Heaven; and, for the moſt part, they little underſtood the Nature of his Kingdom, or the true End and Deſign of his Coming.</p>
+            <p>But certain it is, that 'tis a moſt heavenly Kingdom; as is manifeſt to any one that is ac<g ref="char:EOLhyphen"/>quainted with it; not only be<g ref="char:EOLhyphen"/>cauſe that Kingdom is not of this World, but is ſeated in the Hearts and Spirits of Men; but becauſe it is a real Theocracy, God him<g ref="char:EOLhyphen"/>ſelf is the King, the Legiſlator and Governour; and the Mem<g ref="char:EOLhyphen"/>bers, the Citizens or Subjects of it, are all heavenly Perſons, or Men that lead heavenly Lives, ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeable to the moſt holy, moſt
+<pb n="21" facs="tcp:34658:15"/>wiſe, righteous, and everlaſting Laws of God. That is Chriſtia<g ref="char:EOLhyphen"/>nity.</p>
+            <p>'Tis therefore an heavenly Conſtitution, or Heaven upon Earth. God reigns in our Hearts, and over all our Paſſions, and his Will is the Rule of all our Actions.</p>
+            <p>And <hi>what is it the Lord re<g ref="char:EOLhyphen"/>quires of us, but to do juſtly, and to love mercy, and to walk humbly with our God?</hi> As it is, <hi>Micah</hi> 6.8.</p>
+            <p>Or, according to the Goſpel<g ref="char:EOLhyphen"/>revelation, <hi>To deny all ungodlineſs and worldly luſts, and live ſoberly, righteouſly, and godly in this pre<g ref="char:EOLhyphen"/>ſent world,</hi> Tit. 2.12. It is no<g ref="char:EOLhyphen"/>thing but the ſtate of Repentance continued and perfected, that is, a ſtate of Holineſs.</p>
+            <p>But ſome, perhaps, will ſay, this is Morality; And doth the
+<pb n="22" facs="tcp:34658:16"/>Kingdom of Heaven conſiſt in this?</p>
+            <p>Why; are not theſe expreſs Texts of Scripture? And doth not the very Preparative to Chri<g ref="char:EOLhyphen"/>ſtianity, teach us, wherein the Nature and Eſſence of it doth conſiſt? If Men muſt repent, that is, <hi>Ceaſe to do evil, and learn to do well,</hi> before they can be fit to become Chriſtians; Doth not that teach us that the Chriſtian Religion doth conſiſt in an entire conformity to the Divine Laws? And doth not the Apoſtle declare as much in the definition or de<g ref="char:EOLhyphen"/>ſcription he gives us of it? <hi>The kingdom of God,</hi> ſays he, <hi>is not meat and drink</hi> (doth not con<g ref="char:EOLhyphen"/>ſiſt of things in themſelves indif<g ref="char:EOLhyphen"/>ferent) <hi>but righteouſneſs, and peace, and joy in the Holy Ghost. For,</hi> doth he add, <hi>he that in theſe things ſerveth Christ, is
+<pb n="23" facs="tcp:34658:16"/>acceptable to God, and approved of men,</hi> Rom. 14.17, 18.</p>
+            <p>And <hi>Gal.</hi> 6.15. <hi>In Jeſus Chriſt neither circumciſion availeth any thing, nor uncircumciſion, but a new creature.</hi>
+            </p>
+            <p>Nevertheleſs Men generally have ſtrange odd Notions of the Chriſtian Faith, and of Mora<g ref="char:EOLhyphen"/>lity.</p>
+            <p>We are apt to fancy, that the improvement of our Knowledge and Speculations is the end of our Faith, the ultimate end of the Goſpel-revelation. But St. <hi>James</hi> tells us, the Devils then may be as good Chriſtians as we, for they <hi>alſo believe and trem<g ref="char:EOLhyphen"/>ble,</hi> Jam. 2.19. And at the 26th Verſe, <hi>As the body without the ſpirit is dead, ſo faith without works is dead alſo.</hi>
+            </p>
+            <p>Good Works then; are the very Life and Spirit of Chriſtia<g ref="char:EOLhyphen"/>nity.
+<pb n="24" facs="tcp:34658:17"/>So that we are infinitely miſtaken, if we think that any one Article of the Chriſtian Faith ends meerly in Speculation, and has not a neceſſary influence up<g ref="char:EOLhyphen"/>on Practice.</p>
+            <p>That Belief is good for no<g ref="char:EOLhyphen"/>thing, and that Revelation is not worthy of the God of Heaven, which doth not tend to the re<g ref="char:EOLhyphen"/>formation and perfection of Mens Lives and Manners. That's the only wiſe and reaſonable End of all Religion: That's the only reaſonable Service; and therein the true Glory of God doth conſiſt.</p>
+            <p>
+               <hi>Pure Religion, and undefiled before God and the Father, is this: To viſit the fatherleſs, and widows in their afflictions, and to keep himſelf unſpotted from the world,</hi> Jam. 1.27.</p>
+            <pb n="25" facs="tcp:34658:17"/>
+            <p>We are indeed to be very zea<g ref="char:EOLhyphen"/>lous of Faith; ſo it be ſuch a Faith as <hi>worketh by Love,</hi> Gal. 5.6.</p>
+            <p>
+               <hi>For without that it is impoſſible to pleaſe God; for he that cometh to God, must believe that he is, and that he is a rewarder of them that diligently ſeek him,</hi> Hebr. 11.6.</p>
+            <p>But to him that hath ſuch a Faith, nothing is impoſſible; as we find in that Chapter.</p>
+            <p>
+               <hi>By Faith Abraham, when he was tried, offered up Iſaac: and he that had received the promi<g ref="char:EOLhyphen"/>ſes, offered up his only begotten Son; accounting that God was able to raiſe him up, even from the dead.</hi>
+            </p>
+            <p>
+               <hi>By Faith Moſes, when he was come to years, refuſed to be called the Son of Pharaoh's Daughter; chuſing rather to ſuffer affliction with the people of God, than to
+<pb n="26" facs="tcp:34658:18"/>enjoy the pleaſures of ſin for a ſea<g ref="char:EOLhyphen"/>ſon; eſteeming the reproach of Christ greater riches than the treaſures of Egypt: for he had reſpect unto the recompence of the reward.</hi>
+            </p>
+            <p>
+               <hi>The time would fail to tell of Gideon, and of Barak, and of Sampſon, and of Jephtha, of Da<g ref="char:EOLhyphen"/>vid alſo and Samuel, and of the Prophets: who through faith ſub<g ref="char:EOLhyphen"/>dued kingdoms, wrought righte<g ref="char:EOLhyphen"/>ouſneſs, obtained promiſes, ſtopped the mouths of lions, quenched the violence of fire, eſcaped the edge of the ſword, out of weakneſs were made ſtrong, waxed valiant in fight, turned to flight the armies of the aliens. Women received their dead raiſed to life again: and others were tortured not ac<g ref="char:EOLhyphen"/>cepting deliverance; that they might obtain a better reſurrection. And others had trial of cruel
+<pb n="27" facs="tcp:34658:18"/>mockings and ſcourgings; they were ſtoned, they were ſawn aſun<g ref="char:EOLhyphen"/>der, were ſlain with the ſword: they wandred about in ſheep-skins, and goat-skins, being deſtitute, afflicted, tormented, (of whom the world was not worthy).</hi>
+            </p>
+            <p>
+               <hi>All theſe obtained a good report through Faith.</hi> But you ſee it was a lively and operative Faith, that had ſuch an influence upon all their Actions, as to make 'em comply in every thing with the good and holy Will of God.</p>
+            <p>Thoſe then have not Faith, who do not lead good Lives, or at leaſt not ſuch an one as is ſpo<g ref="char:EOLhyphen"/>ken of in this Chapter; that is, an active and ſaving Faith; for that Faith is good for nothing, which doth not effect a thorough Reformation, and cauſe Men to live juſtly and vertuouſly.</p>
+            <pb n="28" facs="tcp:34658:19"/>
+            <p>But now what is it we mean by Morality? If by it you un<g ref="char:EOLhyphen"/>derſtand a mere formal and out<g ref="char:EOLhyphen"/>ward conformity to the Laws of Holineſs, without inward Purity; that is very far from the King<g ref="char:EOLhyphen"/>dom of Heaven: As for Exam<g ref="char:EOLhyphen"/>ple, the Giving of Alms, Praying, Faſting, and the like, not from a Principle of Piety, or a Religious Fear and Love of God, but meer<g ref="char:EOLhyphen"/>ly to be ſeen and approved of Men, and had in good repute, or the like: But this is not true Morality; 'tis Hypocriſie.</p>
+            <p>Or if you mean the Morality of the Heathen Philoſophers, that was imperfect and deficient, weak and obſcure.</p>
+            <p>And ſo was in ſome meaſure the Moral Law of <hi>Moſes;</hi> as is evident from many places of Scripture. Yet it was a great Advantage to the People of the
+<pb n="29" facs="tcp:34658:19"/>
+               <hi>Jews,</hi> and a peculiar Bleſſing; being a very conſiderable Help to Natural Religion, and an Intro<g ref="char:EOLhyphen"/>ducement to Chriſtianity.</p>
+            <p>But if you will know what true Morality is; that is, Chri<g ref="char:EOLhyphen"/>ſtianity itſelf: 'Tis an exact and perfect conformity of our Lives and Actions, of our Thoughts, Words and Deeds, to the eternal Laws of right Reaſon, naturally (that is, by God himſelf) im<g ref="char:EOLhyphen"/>printed upon our Conſciences, and as it were, reprinted (and that more deeply) by the Go<g ref="char:EOLhyphen"/>ſpel of his Son.</p>
+            <p>And whoever vilifies Morality taken in this ſence, vilifies and undervalues the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and rejects the Goſpel of our Lord Jeſus Chriſt.</p>
+            <p>In the Sanction of the Second Covenant is fulfill'd the Divine Oracle of the 31ſt of <hi>Jeremy,</hi> at
+<pb n="30" facs="tcp:34658:20"/>the 33th Verſe, where God did promiſe, That he would <hi>put his Laws in our inward parts, and write them in our hearts; that he would be our God, and we ſhould be his people.</hi>
+            </p>
+            <p>Since moſt Men were ſo dull as not to perceive it, and find it out themſelves, they are told, That <hi>the kingdom of God is with<g ref="char:EOLhyphen"/>in them,</hi> Luk. 17.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. That the true way to worſhip God, is to worſhip him with the Mind, and in ſincerity of Heart, <hi>John</hi> 4.23. That the Dictates of our Con<g ref="char:EOLhyphen"/>ſciences are the very Laws of God, which we ought to reve<g ref="char:EOLhyphen"/>rence, and to obſerve religiouſly: that to contradict them is an abominable guilt; and that God hates Sin mortally; that is, whatſoever is againſt right Rea<g ref="char:EOLhyphen"/>ſon and Equity.</p>
+            <pb n="31" facs="tcp:34658:20"/>
+            <p>For the Goſpel unfolds and propoſes to us all the Precepts or Dictates of Conſcience; that is, the everlaſting Laws of right Reaſon; and denounceth the Wrath of God againſt every Soul that will not ſubmit to 'em, and be ruled by 'em; declaring that this is the Will of God, that God delighteth in no other Service but this; but if we <hi>do this, we ſhall live,</hi> as it is written, <hi>Luke</hi> 10.28.</p>
+            <p>And the holy Jeſus, the only begotten Son of God, is come into the World, not only to tell us of this, but to give us a full aſſurance of it, and preſent unto us all the helps and motives ne<g ref="char:EOLhyphen"/>ceſſary, thereby to recommend our Duty to us, and imprint the everlaſting Laws of God <hi>in our inward parts,</hi> according to the Oracle in <hi>Jeremy.</hi>
+            </p>
+            <pb n="32" facs="tcp:34658:21"/>
+            <p>He hath therefore undergone the bitter and ignominious Death of the Croſs, and has offer'd the Sacrifice of himſelf, not only to make Satisfaction for our paſt Rebellions, in order to a recon<g ref="char:EOLhyphen"/>ciliation, and to make a publick reparation of the Divine Honour and Authority, which was af<g ref="char:EOLhyphen"/>fronted by all our Actions that were contrary to his Laws, and to right Reaſon; but alſo to give us thereby an invincible Proof, and a convincing Argument that God cannot love ſin, that he can<g ref="char:EOLhyphen"/>not away with it, that he will never be Friends with ſinners, till they actually forſake their ſins, and learn righteouſneſs: <hi>Since</hi> (as an excellent Man of our Church has it) <hi>his Infinite Ju<g ref="char:EOLhyphen"/>ſtice and Holineſs would not per<g ref="char:EOLhyphen"/>mit him to propound Terms of Re<g ref="char:EOLhyphen"/>conciliation with fallen Mankind,
+<pb n="33" facs="tcp:34658:21"/>without ſuch a glorious and open manifeſtation of his just hatred and diſpleaſure against ſin and rebellion.</hi>
+            </p>
+            <p>
+               <hi>For no other conſideration could prevail with God to be reconciled with us, and to remit our Offences upon condition of amendment and newneſs of Life, but the powerful interpoſition of his dear and only begotten Son, and his ſuffering in our Nature the puniſhment due to ſin;</hi> when he took upon him to make ſatisfaction for it, in our behalf, to the injur'd Majeſty of God, that the Juſtice and indi<g ref="char:EOLhyphen"/>ſpenſable Obligation of God's Laws might be thereby acknow<g ref="char:EOLhyphen"/>ledged and demonſtrated, and ſo a due reparation made to the Di<g ref="char:EOLhyphen"/>vine Honour and Authority.</p>
+            <p>
+               <hi>Not but that,</hi> as the ſame Re<g ref="char:EOLhyphen"/>verend Author goes on, <hi>God Al<g ref="char:EOLhyphen"/>mighty by the unlimited Goodneſs
+<pb n="34" facs="tcp:34658:22"/>of his own Nature, is infinitely in<g ref="char:EOLhyphen"/>clin'd to all Acts of Favour and Pity; and he might without wrong to any one (if he had ſeen it fit) abſolutely have pardon'd the Sins of Mankind, without any other Conſideration than their repen<g ref="char:EOLhyphen"/>tance and amendment.</hi>
+            </p>
+            <p>But he beſt knowing Mens Hearts, did not think it ſuffici<g ref="char:EOLhyphen"/>ent barely to ſend his Son among us, to declare his Will, and de<g ref="char:EOLhyphen"/>mand our Obedience; he was pleaſed alſo; (to print his Laws, the eternal Laws of Holineſs, in our Minds, and to make a deep<g ref="char:EOLhyphen"/>er impreſſion upon our Spirits;) he was pleaſed, I ſay, to make an Example of his own begotten Son, when he took upon him to be the Advocate and the Pledge of Sinners, thereby to convince us, that ſince he ſpared not his own Son, but deliver'd him up
+<pb n="35" facs="tcp:34658:22"/>unto Death, upon the account of ſin, he will ſurely ſhew no mer<g ref="char:EOLhyphen"/>cy to us, if we are not wrought upon to forſake all our evil ways, and turn unto the Lord our God, and ſuffer him to Reign over us.</p>
+            <p>For that was the very thing Chriſt came into the World for, <hi>viz.</hi> to reſtore rebellious Men to the Favour and Love of God, in bringing them again to their Du<g ref="char:EOLhyphen"/>ty and Allegiance.</p>
+            <p>He tells us himſelf, <hi>Mat.</hi> 9.13. <hi>He came to call ſinners to repent<g ref="char:EOLhyphen"/>ance.</hi> And the Apoſtle St. <hi>Paul</hi> teacheth us, that this was the end of his Death, Tit. 2.14. <hi>Who gave himſelf for our ſins, that he might redeem us from all iniquity.</hi>
+            </p>
+            <p>And indeed he fully demon<g ref="char:EOLhyphen"/>ſtrated, by his Death and Suffer<g ref="char:EOLhyphen"/>ings, the abſolute neceſſity of returning to our Duty; aſſuring
+<pb n="36" facs="tcp:34658:23"/>us thereby, That <hi>the wages of ſin is death;</hi> that God will by no means ſpare thoſe that perſiſt in their Rebellion, and reject the Offers of Grace made to them in the Goſpel, and that there is no way to <hi>eſcape, if we neglect ſo great a ſalvation.</hi>
+            </p>
+            <p>As he forewarns us in the Pa<g ref="char:EOLhyphen"/>rable, the Lord will ſurely order, at the Great Day of Accounts, <hi>All his Enemies, which would not that he ſhould reign over them, to be brought and ſlain before him,</hi> Luke 19.27.</p>
+            <p>But this is not all that was done by our bleſſed Saviour to eſtabliſh the Kingdom of Heaven among Men. He not only did reveal the pure Laws of Heaven, and manifeſted to the World the Wrath and Judgment of God a<g ref="char:EOLhyphen"/>gainſt them that will not be ru<g ref="char:EOLhyphen"/>led by 'em; he hath alſo <hi>brought
+<pb n="37" facs="tcp:34658:23"/>life and immortality to light thrô the Goſpel:</hi> He hath not only re<g ref="char:EOLhyphen"/>vealed, but alſo given full aſſu<g ref="char:EOLhyphen"/>rance, by his own Death and Re<g ref="char:EOLhyphen"/>ſurrection, that God will reward with everlaſting Life and Felicity, and an immortal Crown of Glory in Heaven, thoſe that will ſubmit to his Government, live accord<g ref="char:EOLhyphen"/>ing to the Goſpel of his Son, and be his faithful Subjects in this World.</p>
+            <p>Thus did the Mediator of the Second Covenant put the Laws of God in our inward parts, and write them in our hearts.</p>
+            <p>I have thus long inſiſted upon this Point, on purpoſe to make Chriſtianity, or the Meſſiah's Diſpenſation the better known. For theſe are wholly and abſo<g ref="char:EOLhyphen"/>lutely ignorant of the Nature of this his Heavenly Kingdom, who conceit that Chriſt hath recon<g ref="char:EOLhyphen"/>ciled
+<pb n="38" facs="tcp:34658:24"/>God to ſin, or to ſinners that continue in their ſins; as I hope doth appear from what hath been ſaid, particularly con<g ref="char:EOLhyphen"/>cerning the Nature of the Chri<g ref="char:EOLhyphen"/>ſtian Faith; and as muſt needs indeed be evident to any one who will but conſider ſeriouſly the Precepts, the Promiſes, and the Threatnings of the Goſpel.</p>
+            <p>We are told, <hi>Acts</hi> 3.26. That the end for which <hi>God ſent his Son,</hi> was <hi>to bleſs us, in turning away every one of us from our ini<g ref="char:EOLhyphen"/>quities.</hi>
+            </p>
+            <p>It muſt needs therefore be a great Bleſſing to be freed from our ſins, and brought again under the Dominion of the Kingdom of Heaven.</p>
+            <p>What pretence then, or what excuſe can we now frame, if we ſtill deſpiſe and reject God's Laws, and will not ſubmit to his Divine Government?</p>
+            <pb n="38" facs="tcp:34658:24"/>
+            <p>How can we refuſe to <hi>yield our ſelves unto God,</hi> and become God's obedient People; ſeeing he requires nothing of us but what is agreeable to the beſt Rea<g ref="char:EOLhyphen"/>ſon in the World, and the Light of our own Conſciences, and what tends to our trueſt Happi<g ref="char:EOLhyphen"/>neſs, even in this Life, (ſuch as muſt neceſſarily ariſe from Con<g ref="char:EOLhyphen"/>tentment, Peace of Conſcience, and Serenity of Mind, and all the Chriſtian Vertues) and will ſe<g ref="char:EOLhyphen"/>cure our everlaſting Happineſs in the World to come?</p>
+            <p>For <hi>the kingdom of God is not meat and drink,</hi> (it doth not con<g ref="char:EOLhyphen"/>ſiſt in indifferent things) <hi>but righteouſneſs, and peace, and joy in the holy Ghost;</hi> as we ſaw be<g ref="char:EOLhyphen"/>fore, <hi>Rom.</hi> 14.17.</p>
+            <p>When we are admitted to the freedom of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, we take a ſolemn Oath of
+<pb n="40" facs="tcp:34658:25"/>Allegiance, which comprehends theſe three things:</p>
+            <p n="1">I. That we renounce the Devil and all his Works, the Pomps and Vanity of this wicked World, and all the ſinful Luſts of the Fleſh.</p>
+            <p n="2">II. That we receive and em<g ref="char:EOLhyphen"/>brace all the Articles of the Chri<g ref="char:EOLhyphen"/>ſtian Faith.</p>
+            <p n="3">
+               <hi>And</hi> III. That we will keep God's Holy Will and Command<g ref="char:EOLhyphen"/>ments, and walk in the ſame all the Days of our Life.</p>
+            <p>And as long as we are true to this Oath, we remain good and faithful Subjects, we are God's People, and he is our God.</p>
+            <p>This is the Kingdom of Hea<g ref="char:EOLhyphen"/>ven; that is, the Chriſtian Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <pb n="41" facs="tcp:34658:25"/>
+            <p>Now 3ly, it is not hard to di<g ref="char:EOLhyphen"/>ſcern what reaſon there was to repent, the Kingdom of Heaven being at hand; and what reaſon then there is for Repentance, now the Kingdom of Heaven is come.</p>
+            <p>The Kingdom of God being ſuch as we have now ſeen, it is evident that Repentance is a ne<g ref="char:EOLhyphen"/>ceſſary ſtep or preparative to it.</p>
+            <p>How will Men ſubmit and conform themſelves to the Di<g ref="char:EOLhyphen"/>vine Laws, if they do not forſake their Sins, and learn to practice the contrary Vertues? They <hi>cannot ſerve God and Mammon,</hi> Luk. 16.13. <hi>For what fellowſhip hath righteouſneſs with unrighte<g ref="char:EOLhyphen"/>ouſneſs; what communion hath light with darkneſs; and what concord hath Christ with Belial?</hi> as ſays the Apoſtle, 2 <hi>Cor.</hi> 6.14, 15.</p>
+            <p>'Tis certain Men will never be thorowly converted, if they do
+<pb n="42" facs="tcp:34658:26"/>not firſt repent, and begin by Reformation.</p>
+            <p>
+               <hi>The fear of the Lord is the be<g ref="char:EOLhyphen"/>ginning of wiſdom,</hi> Prov. 9.10. So Repentance is the beginning of Chriſtianity.</p>
+            <p>Thoſe that forſake their Sins, and repent heartily of them, are fit Men to make Chriſtians of; but no wonder that the Rulers, the Phariſees and Sadducees, and the reſt of the Hypocrites and Reprobates of that Age believed not in Jeſus Chriſt. <hi>The ſecret of the Lord is only with them that fear him; the ſecret of the Lord is with the righteous, and to ſuch he will ſhew his covenant,</hi> as we read, <hi>Pſal.</hi> 25.14. <hi>Prov,</hi> 3.32.</p>
+            <p>In a word, the good Seed ta<g ref="char:EOLhyphen"/>keth no effect, but when it falls in a good and well prepared Ground, that is, in an honeſt and good Heart; as is apparent from the Parable, <hi>Luk.</hi> 8.15.</p>
+            <pb n="43" facs="tcp:34658:26"/>
+            <p>Is it now neceſſary to bring a<g ref="char:EOLhyphen"/>ny further Proofs to ſhew how much reaſon then there is for us Chriſtians to repent?</p>
+            <p>Hear what Chriſt himſelf, the Author of our Faith, has expreſly declared, <hi>Luk.</hi> 13.3. <hi>Except ye repent, ye ſhall all periſh.</hi> And if we are called with an <hi>holy and heavenly calling.</hi> (As it is 2 <hi>Tim.</hi> 1.9. <hi>Heb.</hi> 3.1. 1 <hi>Theſſ.</hi> 4.7. and in other places of Scripture) it muſt needs be ſurely to this end, that we ſhould <hi>ſtabliſh our hearts unblameable in holineſs,</hi> 1 Theſſ. 3.13. <hi>And perfect holi<g ref="char:EOLhyphen"/>neſs in the fear of God, having cleanſed our ſelves from all filthi<g ref="char:EOLhyphen"/>neſs of fleſh and ſpirit,</hi> 2 Cor. 7.1</p>
+            <p>He that never began to ſtudy, nor ever was acquainted with Books, may with as much reaſon conceit himſelf a great Scholar, as he that hath not ſorſaken his
+<pb n="44" facs="tcp:34658:27"/>Sins, and repented, think he may be a Chriſtian.</p>
+            <p>Let us therefore repent, that we may <hi>follow peace with all men, and holineſs without which no man ſhall ſee the Lord,</hi> Heb. 12.14.</p>
+            <p>We cannot barely ſay, as the Baptiſt, <hi>Repent ye for the kingdom of heaven is at hand;</hi> but the Hour now is, that we muſt bid all Men repent, becauſe the Kingdom of God is come, and that is inconſiſtent with a ſtate of Sin and Wickedneſs.</p>
+            <p>The Times of our Ignorance God winked at; but now he ex<g ref="char:EOLhyphen"/>pects we ſhall all repent: And the reaſon of it we find, <hi>Acts</hi> 17.31. <hi>Becauſe he hath appointed a day in the which he will judge the world in righteouſneſs, by that Man whom he has ordained; where<g ref="char:EOLhyphen"/>as he has given aſſurance to all men, in that he has raiſed him from the dead.</hi>
+            </p>
+            <pb n="45" facs="tcp:34658:27"/>
+            <p>Finally, in <hi>Luk.</hi> 12.48. we read that <hi>unto whomſoever much is given, of him ſhall be much re<g ref="char:EOLhyphen"/>quired. What manner of perſons than ought we to be,</hi> (we to whom Chriſt is preached, and the King<g ref="char:EOLhyphen"/>dom of God fully revealed) <hi>what manner of perſons ought we to be in all holy converſation and godli<g ref="char:EOLhyphen"/>neſs?</hi> as St. <hi>Peter</hi> has it in his 2 Epiſt. 3.11.</p>
+            <p>Hence we may take occaſion, in the 4th place, to conſider, what ſort of Perſons are the Subjects of the Heavenly Kingdom; that we may aſſuredly know whether we are ſuch or not; that if we are, we may praiſe God for it, and continue to be ſo; or if we are not, we may ſee what is to be done to become ſuch.</p>
+            <p>It is evident that a thorow Converſion from Sin to Holineſs, is the Buſineſs of Chriſtianity.
+<pb n="46" facs="tcp:34658:28"/>The Deſign of Chriſt's coming into the World, was to make Men truly holy. The only Pre<g ref="char:EOLhyphen"/>paration neceſſary for the Enter<g ref="char:EOLhyphen"/>tainment of the Meſſiah, or the Reception of his Heavenly Do<g ref="char:EOLhyphen"/>ctrine, conſiſted in having this work begun in them, by Repen<g ref="char:EOLhyphen"/>tance. <hi>Repent ye,</hi> ſaid the <hi>Ba<g ref="char:EOLhyphen"/>ptist, for the kingdom of heaven is at hand.</hi>
+            </p>
+            <p>A Chriſtian therefore (a true Chriſtian I mean, and not one in name only) is one that has forſaken all his evil ways, and is turned with all his heart unto the Lord his God, to do his whole Will and, keep his Command<g ref="char:EOLhyphen"/>ments, as long as he lives.</p>
+            <p>
+               <hi>They that are Christ's have crucified the fleſh with the affecti<g ref="char:EOLhyphen"/>ons and lusts,</hi> Gal. 5.24.</p>
+            <p>It is one who has <hi>denied him<g ref="char:EOLhyphen"/>ſelf, and taken up his croſs,</hi> Matt.
+<pb n="47" facs="tcp:34658:28"/>16.24. One that treads apon the ſteps of his Saviour, <hi>and runs with patience the race that is ſet before him, looking unto Chrst Je<g ref="char:EOLhyphen"/>ſus, who for the joy that was ſet before him endured the croſs, de<g ref="char:EOLhyphen"/>ſpiſing the ſhame, and is now ſet at the right hand of God.</hi> Hebr. 12.1, 2. <hi>If any man be in Chriſt, he is a new creature,</hi> ſays the A<g ref="char:EOLhyphen"/>poſtle St. <hi>Paul,</hi> 2 <hi>Cor.</hi> 5.17. And <hi>Rom.</hi> 6.3. &amp;c. <hi>They that are ba<g ref="char:EOLhyphen"/>ptiſed in Jeſus Christ are bapti<g ref="char:EOLhyphen"/>ſed into his death; therefore they are buried with him by baptiſm into death, that like as Christ was raiſed up from the dead, even ſo they alſo ſhould walk in newneſs of life.</hi>
+            </p>
+            <p>
+               <hi>Leaving,</hi> therefore, <hi>the princi<g ref="char:EOLhyphen"/>ples of the doctrine of Christ, they go on unto perfection, not laying again the foundation of repentance from dead works, and of faith to<g ref="char:EOLhyphen"/>wards
+<pb n="48" facs="tcp:34658:29"/>God,</hi> as the Author of the Epiſtle to the <hi>Hebrews</hi> has it, 6.1.</p>
+            <p>In a word, true Chriſtians are <hi>a peculiar people, purified from all iniquity, and zealous of all good works,</hi> Tit. 2.14.</p>
+            <p>But if you will know more particularly what manner of men true Chriſtians are in their Life and Converſation, you muſt read all the Precepts of the Goſpel.</p>
+            <p>For we can never take them for true Chriſtians, that do not love Jeſus Chriſt, and are none of his Friends. And I am ſure all thoſe are mere Hypocrites, who pretend to love him, and yet keep not his Commandments.</p>
+            <p>He has ſaid it expreſly, <hi>If ye love me keep my commandments,</hi> John 14.15. And at the 21 ver. of the ſame Chapter, <hi>He that has my commandments and keep<g ref="char:EOLhyphen"/>eth them, he it is that loveth me,</hi>
+               <pb n="49" facs="tcp:34658:29"/>or as it is at the 23 ver. <hi>If a man love me, he will keep my words.</hi>
+            </p>
+            <p>By this we ſhall know certain<g ref="char:EOLhyphen"/>ly whether we are his Diſciples, or not. <hi>Love is the fulfilling of the law,</hi> as we read, <hi>Rom.</hi> 13.10. that is, it is the ſum of it: Cha<g ref="char:EOLhyphen"/>rity comprehends all the Pre<g ref="char:EOLhyphen"/>cepts of Chriſtianity, and im<g ref="char:EOLhyphen"/>plies all the Duties of Religion. Therefore our Saviour has made it the <hi>Criterion,</hi> or the Sign and Mark to know true Chriſtians by, <hi>John</hi> 13.35.</p>
+            <p>In the 15th Chapter of the ſame Goſpel, at the 12th ver He calls it his Commandment, <hi>This is my commandment, that ye love one another, as I loved you.</hi> And at the 14th ver. <hi>Ye are my friends,</hi> ſaith he, <hi>if ye do whatſoever I command you.</hi>
+            </p>
+            <p>Than we are not his Friends,
+<pb n="50" facs="tcp:34658:30"/>if we do not whatſoever he com<g ref="char:EOLhyphen"/>mands us, then ſurely we are not Chriſtians. But there's no diffi<g ref="char:EOLhyphen"/>culty in the caſe, we are true Chriſtians, we are his Friends, if we do whatſoever he commands us.</p>
+            <p>Some Men perhaps, at the firſt bluſh, will be apt to think that this Repreſentation of a Chriſti<g ref="char:EOLhyphen"/>an is defective; becauſe though I ſhew him to be one that re<g ref="char:EOLhyphen"/>nounceth Sin and the Devil, and makes it his Buſineſs to frame his Life according to the Command<g ref="char:EOLhyphen"/>ments of God; yet I do not mention the particulars of his Be<g ref="char:EOLhyphen"/>lief. But they may conſider that this were needleſs to our preſent purpoſe, and ſuperfluous; it be<g ref="char:EOLhyphen"/>ing ſuppoſed that he who yields himſelf intirely, and without a<g ref="char:EOLhyphen"/>ny reſerve, to our Lord Jeſus Chriſt, to do his whole will, doth
+<pb n="51" facs="tcp:34658:30"/>moſt ſincerely believe his holy Goſpel, and receives and adheres to all the Truths revealed in it.</p>
+            <p>It were unreaſonable in this occaſion to think that a too ge<g ref="char:EOLhyphen"/>neral Catalogue of the Articles of his Faith, ſince 'tis moſt cer<g ref="char:EOLhyphen"/>tain God requires no more, and no more is neceſſary to the De<g ref="char:EOLhyphen"/>ſign of the Goſpel, and the Buſi<g ref="char:EOLhyphen"/>neſs of Religion, that is to make Men truly holy.</p>
+            <p>Men may be ignorant of the meaning of ſeveral obſcure pla<g ref="char:EOLhyphen"/>ces of Scripture, nay, and be miſtaken in their Underſtanding of ſeveral places (for no body is infallible) and yet be right good Chriſtians, if they do but anſwer the Deſign of Chriſtianity, which cannot be miſtaken but wilfully.</p>
+            <p>So that if a Man can ſay,
+<note place="margin">The Deſign of Chriſtianity.</note> 
+               <hi>I am ſincere<g ref="char:EOLhyphen"/>ly willing to obey my Creator and
+<pb n="52" facs="tcp:34658:31"/>Redeemer in all things command<g ref="char:EOLhyphen"/>ed by them; I do entertain and harbour no Luſt in my Breaſt, I do heartily endeavonr to have a right underſtanding of the holy Scriptures, and chiefly of the Goſ<g ref="char:EOLhyphen"/>pel, and to know what Doctrines are delivered there in order to the bettering of my Soul by them, and the direction of my Life and Acti<g ref="char:EOLhyphen"/>ons according to them.</hi>
+            </p>
+            <p>If a Man can but ſay this tru<g ref="char:EOLhyphen"/>ly of himſelf, he may be ſure whatſoever Miſtakes he may la<g ref="char:EOLhyphen"/>bour under, they cannot be ſuch as will undo his Soul, ſince they do not hinder him to anſwer the Deſign of the Goſpel, and the end of our Saviour's coming into the World, that is to return ſin<g ref="char:EOLhyphen"/>cerely and heartily to the Obe<g ref="char:EOLhyphen"/>dience of God, to ſubmit to his divine Government, and frame his Life according to the Laws
+<pb n="53" facs="tcp:34658:31"/>and Conſtitutions of his moſt Heavenly Kingdom.</p>
+            <p>It is certain Faith is required to no other end but this; whoe<g ref="char:EOLhyphen"/>ver reads the Scriptures cannot but ſee that this is the thing aim'd at by all God's Diſpenſati<g ref="char:EOLhyphen"/>ons. Let us always remember then to make it the end of our Faith.</p>
+            <p>Our Saviour tells us, <hi>The king<g ref="char:EOLhyphen"/>dom of heaven is like unto a trea<g ref="char:EOLhyphen"/>ſure hid in a field, the which when a man has found, he hideth, and for joy thereof goeth and ſelleth all that he has, and buyeth that field,</hi> Matth. 13.44. That is, they that will purchaſe the King<g ref="char:EOLhyphen"/>dom of Heaven, muſt part with all their darling Sins, and all their beloved Luſts: Chriſtiani<g ref="char:EOLhyphen"/>ty is not to be attain'd unto any otherwiſe.</p>
+            <p>O then, how many dream of
+<pb n="54" facs="tcp:34658:32"/>Divine Treaſures and Kingdoms, fancy they have found the Pearl of great Price, and as we ſay, Build Caſtles in the Air, and are ſtill errant Beggars, as to the con<g ref="char:EOLhyphen"/>cerns of the everlaſting Riches, and in the ſight of God?</p>
+            <p>How many are there in the World call themſelves Chriſtians, and have nothing at all of it but juſt the Name? They have no<g ref="char:EOLhyphen"/>thing to ſhew for their Title to the Kingdom of Heaven, but their own falſe and impudent Claim, without any Grounds.</p>
+            <p>But we may as well call our ſelves <hi>Jews</hi> and <hi>Mahometans,</hi> when we do not obſerve the Laws of <hi>Moſes,</hi> or of the <hi>Alco<g ref="char:EOLhyphen"/>ran,</hi> as call our ſelves Chriſtians, when we do not live according to the Precepts of the Goſpel; would you therefore know whe<g ref="char:EOLhyphen"/>ther you are Chriſtians? Com<g ref="char:EOLhyphen"/>pare
+<pb n="55" facs="tcp:34658:32"/>your Lives with the Laws of Chriſtianity.</p>
+            <p>Our Saviour hath command<g ref="char:EOLhyphen"/>ed us to <hi>let our light ſhine before men, that they may ſee our good works, and glorifie our father which is in heaven,</hi> Matt. 5.16.</p>
+            <p>And in the following Verſes he adds, (a warning very neceſ<g ref="char:EOLhyphen"/>ſary to this preſent Generation) <hi>Think not that I am come to de<g ref="char:EOLhyphen"/>ſtroy the law or the propbets. I am not come to deſtroy, but to ful<g ref="char:EOLhyphen"/>fil. Whoſoever therefore ſhall break one of theſe least commandments, and ſhall teach men ſo, he ſhall be called the least in the kingdom of heaven.</hi>
+            </p>
+            <p>
+               <hi>For I ſay unto you, that except your righteouſneſs ſhall exceed the righteouſneſs of the Scribes and Phariſees, ye ſhall in no caſe, en<g ref="char:EOLhyphen"/>ter into the kingdom of heaven.</hi>
+            </p>
+            <p>
+               <hi>Ye have heard, that it was ſaid
+<pb n="56" facs="tcp:34658:33"/>by them of old time, Thou ſhalt not kill; and whoſoever ſhall kill, ſhall be in danger of the judgment. But I ſay unto you, that whoſoe<g ref="char:EOLhyphen"/>ver is angry with his brother without a cauſe, ſhall be in danger of the judgment. And whoſoever ſhall ſay to his brother, Racha, ſhall be in danger of the Council: but whoſoever ſhall ſay, Thou fool, ſhall be in danger of hell fire.</hi>
+            </p>
+            <p>
+               <hi>Ye have heard that it was ſaid, Thou ſhalt not commit adultery, but I ſay unto you, that whoſoe<g ref="char:EOLhyphen"/>ver looketh on a woman to lust af<g ref="char:EOLhyphen"/>ter her, has committed adultery with her already in his heart. If thy right eye offend thee, pluck it out, and if thy right hand offend thee, cut it off. It is better for thee that one of thy members ſhould periſh, than that thy whole body ſhould be cast into Hell.</hi>
+            </p>
+            <p>
+               <hi>Swear not at all. Love your ene<g ref="char:EOLhyphen"/>mies.
+<pb n="57" facs="tcp:34658:33"/>Be ye perfect, even as your Father which is in heaven is per<g ref="char:EOLhyphen"/>fect.</hi>
+            </p>
+            <p>All theſe we find in the 5th Chapter of St. <hi>Matt.</hi> and in the 11th of the ſame Goſpel, at the 29th Verſe, <hi>Take my yoke upon you,</hi> ſays our bleſſed Saviour, <hi>and learn of me, for I am meek and lowly in heart.</hi>
+            </p>
+            <p>We are infinitely unreaſonable, if we fancy that to be a Chriſti<g ref="char:EOLhyphen"/>an, it is ſufficient to own Chriſt by an outward Profeſſion, with<g ref="char:EOLhyphen"/>out actual Obedience to all his Commands. He declares expreſ<g ref="char:EOLhyphen"/>ſly, <hi>Matt.</hi> 7.21. That 'tis <hi>not e<g ref="char:EOLhyphen"/>very one that ſays unto him, Lord, Lord, ſhall enter into the kingdom of heaven, but he that doth the will of God.</hi>
+            </p>
+            <p>Yet after all this, we have but too much reaſon ſtill to complain and cry out with the Pſalmiſt,
+<pb n="58" facs="tcp:34658:34"/>
+               <hi>Pſal.</hi> 82.5. <hi>They will not be learn<g ref="char:EOLhyphen"/>ed nor underſtand; but walk on ſtill in darkneſs: all the foundati<g ref="char:EOLhyphen"/>ons of the earth are out of courſe.</hi>
+            </p>
+            <p>Still Men will needs fancy themſelves Chriſtians, that is, members of the kingdom of Hea<g ref="char:EOLhyphen"/>ven, when they are evidently the Subjects of the Kingdom of Darkneſs.</p>
+            <p>How many are there that com<g ref="char:EOLhyphen"/>mit Sin, and yet pretend that they are born of God? againſt the poſitive Declaration of the Apoſtle St. <hi>John,</hi> 1 <hi>Joh.</hi> 3.9.</p>
+            <p>But ſome will ſay, <hi>If none were true Chriſtians but thoſe who keep the Commandments of God, and do not commit ſin; who then can be a Chriſtian?</hi>
+            </p>
+            <p>I anſwer in the words of our bleſſed Saviour, <hi>Matt.</hi> 7.14. <hi>Straight is the gate, and narrow is the way which leadeth unto life,
+<pb n="59" facs="tcp:34658:34"/>and few there be that find it.</hi>
+            </p>
+            <p>Few, God knows, few they are, eſpecially in theſe our days, that are true Chriſtians indeed, tho' there be many that call them<g ref="char:EOLhyphen"/>ſelves by that holy Name.</p>
+            <p>But the miſchief is, the great<g ref="char:EOLhyphen"/>eſt part of them who <hi>name the Name of Christ, depart not from iniquity,</hi> and therefore the great<g ref="char:EOLhyphen"/>eſt part of them that call them<g ref="char:EOLhyphen"/>ſelves Chriſtans, ſhall find by a ſad Experience, at the great and terrible Day of the Lord, that they have no ſhare in Chriſt Je<g ref="char:EOLhyphen"/>ſus.</p>
+            <p>For either we muſt not believe the Scriptures, or we muſt be ſure that all Drunkards, Swear<g ref="char:EOLhyphen"/>ers, unjuſt or uncharitable Per<g ref="char:EOLhyphen"/>ſons, <hi>&amp;c.</hi> are far from being Chriſtians; and yet how many ſuch do we find among the Pro<g ref="char:EOLhyphen"/>feſſors of Chriſtianity? What
+<pb n="60" facs="tcp:34658:35"/>more frequent now a days than Wrath, Malice and Revenge, Fraud, Injuſtice, Drunkenneſs, Swearing, and all ſort of Sin.</p>
+            <p>And ſtill if you believe it, we are all Proteſtants; that is the purer ſort of Chriſtians.</p>
+            <p>But how few, notwithſtanding all this pretended Purity, how few are there among us that are truly humble, meek and lowly in heart, charitable, patient and of long ſuffering? How few are there that do not to others, what they would not others ſhould do unto them? How few do we ſee that will bear an affront or an in<g ref="char:EOLhyphen"/>jury without reſentment and re<g ref="char:EOLhyphen"/>venge? How few can find in their Hearts to forgive their E<g ref="char:EOLhyphen"/>nemies? How few then love their Neighbours, that is, all other Men as themſelves.</p>
+            <p>And yet we may be ſure that
+<pb n="61" facs="tcp:34658:35"/>without all this, our Pretentions to Chriſtianity are groundleſs, vain and inſignificant.</p>
+            <p>But is it then impoſſible to be a Chriſtian? No ſuch matter, we read of many in the holy Scriptures, that they were juſt in their Generations, and perfect in the ſight of the Lord, as of <hi>No<g ref="char:EOLhyphen"/>ah,</hi> Gen. 6.9. <hi>Job,</hi> Job 1.1. <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> 1 Kings 11.34. &amp; 14.8. <hi>Aſa,</hi> 1 Kings 15.11. <hi>Joſias,</hi> 2 Kings 22.2. and <hi>Zacharias</hi> and <hi>Elizabeth,</hi> Luk. 1.6.</p>
+            <p>Which ſhews that God doth not expect of us a perfect ſtate of Impeccability, but a perfect Sincerity, I ſay, a perfect Since<g ref="char:EOLhyphen"/>rity. We muſt <hi>love the Lord our God, with all our heart, and with all our ſoul, and with all our mind,</hi> Matt. 22.37. And therefore we muſt obey his Commandments, and do his will, with all the pow<g ref="char:EOLhyphen"/>er
+<pb n="62" facs="tcp:34658:36"/>of our Soul, and all the ſince<g ref="char:EOLhyphen"/>rity of our Mind, and ſure that is not impoſſible.</p>
+            <p>But never flatter your ſelves that you have done all you can, and that you are ſincere, as long as yon continue in a wicked courſe of Life. Alas! you are then worſe then Heathens.</p>
+            <p>Don't you believe that God affords us the Aid and Aſſiſtance of his Holy Spirit? Our Saviour affirms it, <hi>Luke</hi> 11.13. He gives it to them that ask it, <hi>viz.</hi> in de<g ref="char:EOLhyphen"/>vout and conſtant Prayers. And ſure his <hi>Grace is ſufficient for us,</hi> as God Almighty ſays it himſelf, 2 <hi>Cor.</hi> 12.9.</p>
+            <p>Whoſoever therefore is buried with Chriſt in the Baptiſm of Repentance, <hi>Sin ſhall have no do<g ref="char:EOLhyphen"/>minion over him,</hi> he is freed from it, as we read, <hi>Rom.</hi> 6. at the 7th and 14th Verſes. And <hi>whoſoe<g ref="char:EOLhyphen"/>ver
+<pb n="63" facs="tcp:34658:36"/>is born of God, overcometh the world,</hi> 1 John 5.4.</p>
+            <p>
+               <hi>Thoſe that walk in the ſpirit, do not fulfil the lusts of the fleſh,</hi> Gal. 5.16. But, like St. <hi>Paul,</hi> they <hi>keep under their bodies, and bring them into ſubjection, lest they ſhould be cast away,</hi> 1 Cor. 9.27.</p>
+            <p>They baffle Hell and the De<g ref="char:EOLhyphen"/>vil, they reſiſt him till he begon from them. <hi>Reſist the devil,</hi> ſays St. <hi>James, and he will flee from you,</hi> Jam. 4.7.</p>
+            <p>In a word, <hi>The weapons of their warfar are mighty through God, to the pulling down of ſtrong holds caſting down imaginations, and e<g ref="char:EOLhyphen"/>very high thing that exalteth it ſelf against the knowledge of God, and bringing into captivity every thought to the obedience of God,</hi> as it is, 2 <hi>Cor.</hi> 10.4, 5.</p>
+            <p>So that <hi>neither death, nor life, nor angels, nor principalities, nor
+<pb n="64" facs="tcp:34658:37"/>powers, nor things preſent, nor<g ref="char:EOLhyphen"/>things to come, nor height, nor<g ref="char:EOLhyphen"/>depth, nor any other Creature is able to ſeparate them from the love of God.</hi> Rom. 8.38, 39.</p>
+            <p>And if this be true, if nothing hinders but they may, then ſure<g ref="char:EOLhyphen"/>ly they are obliged ever to con<g ref="char:EOLhyphen"/>tinue in his Love, that is, as I have proved from the 21ſt Verſe of the 14th Chapter of the Goſpel according to St. <hi>John,</hi> in the con<g ref="char:EOLhyphen"/>ſtant Practice and Obſervance of his will.</p>
+            <p>For they (and they only) that <hi>endure unto the end ſhall be ſaved,</hi> as it is, <hi>Matt.</hi> 24 13. But <hi>no man,</hi> we are told, <hi>Luke</hi> 9.62. <hi>having put his hand to the plough, and looking back, is fit for the king<g ref="char:EOLhyphen"/>dom of God.</hi>
+            </p>
+            <p>Our bleſſed Saviour in <hi>Matt.</hi> 7.24.25. compares him that learns his will and doth it, to a
+<pb n="65" facs="tcp:34658:37"/>
+               <hi>wiſe man, who builds his houſe upon a rock, which ſtands firm, and will never fall, tho' the rain deſcend, and the flouds come, and the winds blow and beat upon that houſe.</hi>
+            </p>
+            <p>From all has been ſaid, we may draw the following Inferences.</p>
+            <p n="1">I. No Doctrine can be more Antichriſtian, than ſuch as en<g ref="char:EOLhyphen"/>courage Vice and a looſe way of living.</p>
+            <p>For nothing can be more con<g ref="char:EOLhyphen"/>trary to the Nature and Conſti<g ref="char:EOLhyphen"/>tution of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven. Whatſoever doth ſo is di<g ref="char:EOLhyphen"/>rectly oppoſite to the very de<g ref="char:EOLhyphen"/>ſign of Chriſtianity, tends to the Subverſion of it, and conſpires the Ruine and Overthrow of the Kingdom of God among Men.</p>
+            <pb n="66" facs="tcp:34658:38"/>
+            <p>Nothing then can be vainer or more ridiculous, than to take that for a true Chriſtian Doctrine which allows Men in, or encou<g ref="char:EOLhyphen"/>rageth them to Sin. <hi>Whoſoever doth not righteouſneſs is not of God,</hi> 1 John 3.10.</p>
+            <p>So that, though our Righte<g ref="char:EOLhyphen"/>ouſneſs doth not reach unto God, ſo as to add to his Happineſs, yet are we obliged to be righte<g ref="char:EOLhyphen"/>ous. Though when we have done all, we muſt ſay, <hi>We are unprofitable ſervants;</hi> yet we muſt do all.</p>
+            <p>Though we muſt not be proud, and indeed we have no reaſon to boaſt for all our good works; yet we are obliged to do all good works.</p>
+            <p>Though we can do nothing without the Grace of God; yet we muſt believe he affords us ſufficient Strength, and we are
+<pb n="67" facs="tcp:34658:38"/>to act upon that Suppoſition, and do our Duty diligently; otherwiſe our Neglect and Fol<g ref="char:EOLhyphen"/>ly is inexcuſable.</p>
+            <p>Though our Saviour died and made a full and ſufficient Satis<g ref="char:EOLhyphen"/>faction for us; yet it was in order to our Reconciliation to God and Holineſs; He has not purchaſed for us a Licence to ſin; but except we repent, pu<g ref="char:EOLhyphen"/>rifie our ſelves from all Iniqui<g ref="char:EOLhyphen"/>ty, and grow zealous of all good works, we ſhall ſtill periſh, we ſhall receive no Benefit by his Sacrifice.</p>
+            <p>For though the <hi>Ceremonial</hi> or <hi>Judaical</hi> Law be aboliſhed, yet the Natural Law, the everlaſt<g ref="char:EOLhyphen"/>ing Law of Holineſs, of Reaſon and Equity, or Conſcience ſtands firm, and can never be repealed. Could you imagine that that Law was made void through
+<pb n="68" facs="tcp:34658:39"/>Faith? <hi>God forbid,</hi> ſays the A<g ref="char:EOLhyphen"/>poſtle, <hi>yea,</hi> doth he add, <hi>we eſta<g ref="char:EOLhyphen"/>bliſh the Law,</hi> Rom. 3.31.</p>
+            <p>And though we are juſtified freely, and ſaved by Grace, yet it is <hi>through Faith,</hi> and that not a dead Faith, ſuch as the Devils may have; but ſuch an one as <hi>worketh by Love,</hi> as we have ſeen, <hi>Cal.</hi> 5.6.</p>
+            <p>Let us not then object any thing againſt our Duty, but ſet about it inſtantly; knowing that we are to expect no Grace, no Favour, no Mercy at God's Hands upon the Account of our Faith, if it doth not purifie us from all iniquity; and that it will avail us nothing at all to have believed in Jeſus Chriſt, if we do not believe in him, ſo as to forſake all our Sins, and become pure, and holy, and fruitful in all good Works, and
+<pb n="69" facs="tcp:34658:39"/>frame our Lives perfectly accord<g ref="char:EOLhyphen"/>ing to his Will and the Precepts of his Goſpel, ſubmitting our ſelves wholly to his Govern<g ref="char:EOLhyphen"/>ment and his moſt heavenly Kingdom, and letting him rule us, and reign over us.</p>
+            <p>Otherwiſe our Faith is a dead Faith, no better than that of De<g ref="char:EOLhyphen"/>vils, who <hi>believe and tremble,</hi> Jam. 2.19.</p>
+            <p>We are therefore inexcuſable, if we are ſo impertinent, after this, as to wreſt (either through our Ignorance or Inſtability) any Saying in the Bible, to fa<g ref="char:EOLhyphen"/>vour our Luſts, and ſo flatter us in our own Deſtruction.</p>
+            <p>Some Men are very fond of theſe and the like places, <hi>Be not righteous overmuch.</hi> And, <hi>What I would, that I do not; but what I hate, that I do. It is no more I then that do it, but ſin that dwel<g ref="char:EOLhyphen"/>leth
+<pb n="70" facs="tcp:34658:40"/>in me:</hi> As if by theſe, or the like, they were diſcharged from the Duty and Neceſſity of Ho<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>But either theſe Words are capable of a good ſence, recon<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leable with our ſtricteſt Duty, or elſe they are (not the Dictates of the Spirit of God, nor the Sence of the Holy inſpired Men them<g ref="char:EOLhyphen"/>ſelve, but (the Proverbs or Say<g ref="char:EOLhyphen"/>ings of diſſolute Men, who are there perſonated, which lie under the Dominion of ſin, and are <hi>brought into captivity to the law of ſin.</hi>
+            </p>
+            <p>We are little verſt indeed in Scripture, if we know not there are ſome things obſcure in it. Yet we muſt be blind, if we do not plainly perceive that it doth indiſpenſably exact of us a righ<g ref="char:EOLhyphen"/>teous and juſt, and a vertuous and holy Life, agreeable to the hea<g ref="char:EOLhyphen"/>venly
+<pb n="71" facs="tcp:34658:40"/>and everlaſting Laws of the Kingdom of Heaven.</p>
+            <p>Our <hi>God has no pleaſure in wickedneſs, neither ſhall any evil dwell with him. Such as be fooliſh ſhall not ſtand in his ſight; for he hateth all them that work va<g ref="char:EOLhyphen"/>nity. He ſhall deſtroy them that ſpeak leaſing: The Lord will ab<g ref="char:EOLhyphen"/>hor both the blood-thirſty and de<g ref="char:EOLhyphen"/>ceitful man,</hi> as the Pſalmiſt has it, <hi>Pſal.</hi> 5.4, 5, 6.</p>
+            <p>And God is not of another Mind under the Goſpel; but if the Chriſtian Faith did indeed make void the Neceſſity of being truly righteous and holy, and allowed its Profeſſors the Liber<g ref="char:EOLhyphen"/>ty of living in Immorality and Sin; it ought to be rejected of all ſober Men, with Abominati<g ref="char:EOLhyphen"/>on and Horror, as a damnable Contrivance of Hell and the De<g ref="char:EOLhyphen"/>vil: Nay if it were not more
+<pb n="72" facs="tcp:34658:41"/>apt to reform Mens Lives and Manners, and make them much better and holier, than any other Religion that was eſtabliſhed in the World before: I don't ſee what Reaſon we could have to think that God is the Author of it, or that God will have us prefer it to his former Revelati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>But I am ſure if it was true that the Chriſtian Religion did not exact a perfect Comformity to the Laws of Nature, but en<g ref="char:EOLhyphen"/>courageth Men to, or indulgeth them in the Practice of Immora<g ref="char:EOLhyphen"/>lity and Wickedneſs; we could ne<g ref="char:EOLhyphen"/>ver perſwade the wiſe Heathens, and much leſs the <hi>Jews;</hi> and we our ſelves ſhould have no Reaſon at all to believe that it proceeds from God. For the only convincing Reaſon that we have, to prove that our Saviour's
+<pb n="73" facs="tcp:34658:41"/>and the Apoſtles Miracles (which both <hi>Jews</hi> and <hi>Heathens</hi> attribu<g ref="char:EOLhyphen"/>ted to the Power of Magick, or at beſt to God's Permiſſion to try the Children of Men) were affected by the immediate Pow<g ref="char:EOLhyphen"/>er of God, in confirmation of the Truth of the Goſpel; is be<g ref="char:EOLhyphen"/>cauſe the Doctrine of the Goſ<g ref="char:EOLhyphen"/>pel, or the Chriſtian Religion is infinitely averſe to the Genius of the Devil, and moſt agreeable to the Spirit of God, the Dictates of right Reaſon, and our own Conſciences, that is the divine and everlaſting Laws of the King<g ref="char:EOLhyphen"/>dom of Heaven.</p>
+            <p>If the Deſign of the Chriſtian Religion had been to alienate Mens Minds from God and Goodneſs, we could not but con<g ref="char:EOLhyphen"/>clude it to be the Works of the Devil.</p>
+            <pb n="74" facs="tcp:34658:42"/>
+            <p>But if it tends to the Glory of God, and the Good of Mankind, if it be apt to promote true Piety and Vertue, and if its Deſign be to inſpire Mens Minds with great and worthy Thoughts of God, and ſuitable Affections towards him, and to reduce the World to the Practice of Charity, Juſtice, and Humility, Chaſtity, Tempe<g ref="char:EOLhyphen"/>rance and Sobriety, Patience, Meekneſs and Gentleneſs, and all other divine Vertues; then it is impoſſible (or at leaſt abſolutely unreaſonable) to attribute the wonderful Deeds that were wrought in confirmation of the Truth of its Promiſes and Threatnings, to a wicked, ma<g ref="char:EOLhyphen"/>licious, proud, unjuſt, revengeful and impious Spirit.</p>
+            <p>It being then evident that all thoſe Doctrines which reconcile Vice with Religion, are falſe and
+<pb n="75" facs="tcp:34658:42"/>Diabolical; we may therefore be ſure if we explain any obſcure Saying of Scripture, ſo as to make it encourage or palliate Wickedneſs, and excuſe Men from being holy and doing Righteouſneſs, we put a falſe Senſe upon it.</p>
+            <p>Our <hi>Traditions</hi> are falſe and abominable, if by them we <hi>make the Commandments of God of none effect.</hi> That's the <hi>First</hi> Infer<g ref="char:EOLhyphen"/>ence.</p>
+            <p>
+               <hi>Secondly,</hi> Thoſe Men are in<g ref="char:EOLhyphen"/>finitely miſtaken, who fancy the Eſſence of Religion to confiſt in Speculation and not in Practice; and cry out againſt Morality, as if true Morality was not true Religion.</p>
+            <p>Hollneſs is the end of Faith, and the end of Divine Revela<g ref="char:EOLhyphen"/>tion, it is the Law and the Pro<g ref="char:EOLhyphen"/>phets,
+<pb n="76" facs="tcp:34658:43"/>and the very Goſpel. For God's Deſign in the Goſpel is no other than that of the Law, or any former Revelation: As we read of the Houſholder of the Parable <hi>Matth.</hi> 21.33. <hi>&amp;c.</hi> That he ſent ſeveral of his Servants at ſeveral times, and laſt of all his own Son, to thoſe Huband<g ref="char:EOLhyphen"/>men to whom he had let out his Vineyard; and that all the Meſ<g ref="char:EOLhyphen"/>ſages he ſent, were to no other end but this, <hi>viz</hi> To demand the Fruits of his Vineyard: So God at ſundry times has ſent divers Meſſengers to the Sons of Men; Angels and Prophets, and at laſt his only begotten Son: And to what end was all this but to ex<g ref="char:EOLhyphen"/>cite Men to pay him thoſe Fruits he expects from them; to take them off from their Sins, and perſwade them to their Duty and Allegiance, to make them
+<pb n="77" facs="tcp:34658:43"/>good and obedient, that they may become his good Subjects, and may be Partakers of his Ho<g ref="char:EOLhyphen"/>lineſs and divine Nature, and ſo of his everlaſting Kingdom?</p>
+            <p>We muſt then beware of thoſe who make the end of Religion and the Eſſence of it to conſiſt in Speculation, and not in a holy Practice.</p>
+            <p>Thoſe Men know not the Power of the Goſpel, they are not acquainted with the Nature of the Kingdom of Heaven, they are ignorant of what they pray for, in their daily Prayers, when they ſay unto God, <hi>Thy kingdom come.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> It follows, that our chief and main Buſineſs is to ſtu<g ref="char:EOLhyphen"/>dy our Duty, to learn it and to practice it, that we may <hi>work out our own ſalvation with fear
+<pb n="78" facs="tcp:34658:44"/>and trembling,</hi> as it is, <hi>Phil.</hi> 2.12.</p>
+            <p>Thoſe are in a great Error who imagine we muſt always reſt in the Doctrines of Re<g ref="char:EOLhyphen"/>pentance and Faith, againſt the expreſs Commandment of the Apoſtle, <hi>Hebr.</hi> 6.1. For as St. <hi>James</hi> ſays, <hi>What doth it profit, though a man ſay he has faith, and have not works? can faith ſave him? Faith without works is dead,</hi> and therefore unprofitable, <hi>Jam.</hi> 2. at the 14 and 26 Verſes.</p>
+            <p>They are then ignorant and ſenſleſs Chriſtians, or rather no Chriſtians at all, who do not much regard God's Command<g ref="char:EOLhyphen"/>ments, or do not much care to learn his Will, and what it is he requires of every one of us; who undervalue and deſpiſe thoſe Books and Diſcourſes that in<g ref="char:EOLhyphen"/>ſtruct them in all the parts of their Duty, and teach them that with<g ref="char:EOLhyphen"/>out
+<pb n="79" facs="tcp:34658:44"/>the ſincere Performance of it, it is in vain to hope for Hea<g ref="char:EOLhyphen"/>ven; and rather delight in cu<g ref="char:EOLhyphen"/>rious and ſpeculative Notions, fondly perſwading themſelves, that the Knowledge and Belief of ſuch, will bring them to ever<g ref="char:EOLhyphen"/>laſting Happineſs, and fully diſ<g ref="char:EOLhyphen"/>charge them from the Practice of the <hi>whole Duty of Man,</hi> as if there was a way to be <hi>righteous</hi> without doing <hi>Righteouſneſs.</hi>
+            </p>
+            <p>But if we are ſeriouſly deſi<g ref="char:EOLhyphen"/>rous of the things that belong to our Peace, that our Faith may be approved, and may be ſuch as will be accepted of God; and if we will not deceive our ſelves with a vain and dead Faith: If we deſign in good earneſt to have a Share in Chriſt Jeſus, to enjoy the Benefit of that glori<g ref="char:EOLhyphen"/>ous Redemption he hath wrought in the behalf of fall'n Mankind,
+<pb n="80" facs="tcp:34658:45"/>and to be included in that Act of Grace and Indemnity he hath obtained for all Rebels that will return to their true Allegiance, that is, all penitent Sinners: Then it concerns us to return ſincerely and impartially under the Dominion of the Kingdom of Heaven, and become God's faithful Subjects, which cannot be, if we do not conform to his divine Laws.</p>
+            <p>Our Buſineſs therefore muſt be to ſtudy diligently and learn his whole Will, and to practice it with all the Zeal and Sincerity of our Souls.</p>
+            <p>Our Buſineſs (if we will be Chriſtians indeed, and not bare<g ref="char:EOLhyphen"/>ly in Name) is to know per<g ref="char:EOLhyphen"/>fectly what is our Duty to God; what is our Duty to ourſelves; and what is our Duty to all o<g ref="char:EOLhyphen"/>ther Men.</p>
+            <pb n="81" facs="tcp:34658:45"/>
+            <p>We muſt know exactly what is the Duty of Children to Pa<g ref="char:EOLhyphen"/>rents; of Parents to Children; of Servants to Maſters; of Ma<g ref="char:EOLhyphen"/>ſters to Servants; of Husband and Wife, of Friends and Ene<g ref="char:EOLhyphen"/>mies one to another; of the Poor to the Rich, and the Rich to the Poor, and the like.</p>
+            <p>But it doth not only concern us to know theſe things; our main Buſineſs is to practice them, otherwiſe we are as far from Chriſtianity as before.</p>
+            <p>For, <hi>Though we have all know<g ref="char:EOLhyphen"/>ledge, if we have not Charity, we are nothing,</hi> 1 Cor. 13.2. And as our bleſſed Saviour tells us, <hi>Luke</hi> 12.47. <hi>That ſervant which knew his Lords will, and prepared not himſelf, neither did according to his will, ſhall be beaten with many ſtripes.</hi>
+            </p>
+            <pb n="82" facs="tcp:34658:46"/>
+            <p>
+               <hi>Fourthly,</hi> If, <hi>Without holineſs no man ſhall ſee the Lord,</hi> and if it be impoſſibe, and a very con<g ref="char:EOLhyphen"/>tradiction, to be a Member of the Kingdom of Heaven, without <hi>doing the will of God,</hi> and living in Obedience to his Commands; then it follows neceſſarily that if we have any concern for our Souls, or any value for our Sal<g ref="char:EOLhyphen"/>vation, we muſt neglect nothing in order to it, but muſt proſe<g ref="char:EOLhyphen"/>eute the means of Grace with all diligence.</p>
+            <p>Some Men neglect the hearing and reading of God's Word their private and daily Devotions, the Publick Service of God, or if they meet in his Houſe, they lit<g ref="char:EOLhyphen"/>tle mind what is done there; they neglect the Opportunities of coming to the Lords Table, to commemorate with pure and thankful hearts the ineſtimable
+<pb n="83" facs="tcp:34658:46"/>Death of Chriſt, and there re<g ref="char:EOLhyphen"/>new ſolemnly their holy Vows and Reſolutions; they are per<g ref="char:EOLhyphen"/>fect Strangers to the Doctrine of Faſting, and they let their Bo<g ref="char:EOLhyphen"/>dies grow too head-ſtrong for them: Then if you talk to them of governing their Appetites of Self-denial and Reſignation, for<g ref="char:EOLhyphen"/>giving Injuries, and the like; they complain of their Infirmities, and cry, <hi>Who is ſufficient for theſe things?</hi>
+            </p>
+            <p>But whoſe Fault is it if they are not? <hi>Judge I pray you be<g ref="char:EOLhyphen"/>twixt me and my vineyard, ſays the Lord of Hoſts, what could have been done more to my vine<g ref="char:EOLhyphen"/>yard, that I have not done in it? Wherefore then when I looked that it ſhould bring forth grapes, brought it forth wild grapes,</hi> Iſa. 5.3, 4.</p>
+            <pb n="84" facs="tcp:34658:47"/>
+            <p>
+               <hi>Laſtly,</hi> We muſt be ſure to re<g ref="char:EOLhyphen"/>member, it is a great piece of Madneſs for Men to pretend to the Name of Chriſtians, whilſt they put off their Repentance, and live in the Practice of any Sin; and it is no leſs unreaſonable for them after a wicked Courſe of Life, and a continual Neglect and Contempt of the Grace of God during their Life time, to conceit they depart right good Chriſtians out of this World, by vertue of a late and Death-bed Repentance.</p>
+            <p>Alaſs! Repentance at beſt, is but the way, or a Step to Chri<g ref="char:EOLhyphen"/>ſtianity, and even that is a Buſi<g ref="char:EOLhyphen"/>neſs that requires a great deal of Pains and Time, many repeated Reſolutions and Endeavours.</p>
+            <pb n="85" facs="tcp:34658:47"/>
+            <p>I ſhall not need to add more to ſhew the Unreaſonableneſs and Invalidity of a Death-bed Repentance; but this I will free<g ref="char:EOLhyphen"/>ly ſay, I believe there's nothing in the World cauſeth the Deſtru<g ref="char:EOLhyphen"/>ction of more Souls, or doth more effectually the Work of the Devil, than that Doctrine which makes Chriſtianity ſo eaſie, ſo ſlight and trifing a Buſineſs.</p>
+            <p>I will not indeed diſheart<g ref="char:EOLhyphen"/>en Men at no time from doing their Duty, and turning unto the Lord with all their Heart and with all their Soul; but neither will I encourage any to be pre<g ref="char:EOLhyphen"/>ſumptuous at their laſt Hour up<g ref="char:EOLhyphen"/>on the Account of a late and Death bed Repentance.</p>
+            <p>I will adviſe ſuch ſinful Wretches, (who while they en<g ref="char:EOLhyphen"/>joyed their Life and Health, and thought themſelves out of God's
+<pb n="86" facs="tcp:34658:48"/>reach) rejected the Offers of Grace, and ſpent their time in Sin and Vanity, or liv'd in the Practice of any Sin, and now are loath to be damned, for their Folly, and would fain make their Peace, when they ſee themſelves launching into Eternity: I ſay, I will adviſe them not to throw away the poor Remnant of their Time in unprofitable Profeſſion of their great Grief and Sorrow; (who doubts it, when Hell is o<g ref="char:EOLhyphen"/>pen before them, and they are upon the Brink of the preci<g ref="char:EOLhyphen"/>pice?) in paſſionate Profeſſion of great Kindneſs for God and Vertue, (when they have laught at both, as long as they could enjoy their Humour) or in ful<g ref="char:EOLhyphen"/>ſome Flatteries and Comple<g ref="char:EOLhyphen"/>ments; and leaſt of all in con<g ref="char:EOLhyphen"/>fident Extaſies, bold Claims of
+<pb n="87" facs="tcp:34658:48"/>Salvation, and Triumphs in the Mercy of God.</p>
+            <p>But I would have them hum<g ref="char:EOLhyphen"/>ble themſelves to the Duſt be<g ref="char:EOLhyphen"/>fore him; like fugitive Slaves, who are apprehended, much a<g ref="char:EOLhyphen"/>gainſt their Will, and are brought by Force and Violence, to ap<g ref="char:EOLhyphen"/>pear before their Lord's Tribunal: I would have them diſpoſe them<g ref="char:EOLhyphen"/>ſelves with juſt Fears and pro<g ref="char:EOLhyphen"/>found Humility to ſubmit to God's Judgment, whatever it ſhall be: And I would perſwade them to ſet all in order by the way, as much as ever they can; to undo as much as they are able all the Evil they have done, and do all the Good that may be done in ſo little time; that is, make all the Reſtitution, and all the Re<g ref="char:EOLhyphen"/>paration poſſible, (if they have wrong'd or injur'd any) frame their Minds, as much as they
+<pb n="88" facs="tcp:34658:49"/>can, by ſober and ſerious thoughts and ſtrong and well grounded Reſolutions, to quite different Diſpoſitions than thoſe they had before, and endure all the Pains and Miſery of their Sickneſs with Patience and Submiſſion, proceeding from a due ſenſe of their Deſerts and an acknowledg<g ref="char:EOLhyphen"/>ment of the divine Juſtice; and when they have effected all this, I will adviſe them to cry to God for <hi>Mercy</hi> in the deepeſt Humi<g ref="char:EOLhyphen"/>lity of their Souls, acknowledg<g ref="char:EOLhyphen"/>ing that they have not perfor<g ref="char:EOLhyphen"/>med what God requires in the Goſpel; that therefore they have no Reaſon to preſume upon his Mercy; and that if he conſumes them in an everlaſting Fire, it is but that they have deſerved, and what was foretold them by his Miniſters.</p>
+            <pb n="89" facs="tcp:34658:49"/>
+            <p>Yet I will urge them ſtill to cry to God, <hi>Mercy, Mercy,</hi> and put themſelves, as much as they are able, in a fit Diſpoſiti<g ref="char:EOLhyphen"/>on to obtain Mercy. For who knows whether God will not be intreated, and who can tell whi<g ref="char:EOLhyphen"/>ther the Almighty has no hid Treaſures of Mercy in ſtore?</p>
+            <p>However, it muſt beacknow<g ref="char:EOLhyphen"/>ledged, this is the ſafeſt and rea<g ref="char:EOLhyphen"/>ſonableſt Courſe they can take, having no other Hopes left but this. And theſe are very far from affording any grounds of Confidence and Preſumption.</p>
+            <p>O then, ſince we know theſe things, ought we not to <hi>remem<g ref="char:EOLhyphen"/>ber now our Creator,</hi> according to the Exhortation, <hi>Eccl.</hi> 12.1. <hi>now, while it is called to day,</hi> Heb. 3.13.</p>
+            <pb n="90" facs="tcp:34658:50"/>
+            <p>Ought we not, with the <hi>Pſal<g ref="char:EOLhyphen"/>mist,</hi> to <hi>make haſte, and delay not to keep God's Commandments,</hi> Pſal. 119.60.</p>
+            <p>Certainly if we do not take warning, after all this, if we re<g ref="char:EOLhyphen"/>fuſe to hearken to the heavenly calling, and are not wrought up<g ref="char:EOLhyphen"/>on to forſake all our Rebellions, and return to the Obedience of God with all our Heart, and with all our Soul; not only theſe things will riſe in Judgment a<g ref="char:EOLhyphen"/>gainſt us, and condemn us, but our Condemnation will be moſt fearful and terrible; for even thoſe impious and wicked Men of <hi>Sodom,</hi> who have been guilty of the moſt ſhameful and unna<g ref="char:EOLhyphen"/>tural Luſts, and did provoke God by their abominable Sins to rain Fire and Brimſtone from Heaven upon them, and conſume them in an <hi>Eternal Fire:</hi> Even theſe
+<pb n="91" facs="tcp:34658:50"/>Men at the laſt Day, ſhall be treated far more tollerably, than thoſe who reject the Offers of of Grace, when the Kingdom of Heaven is preach'd unto them, as our Saviour aſſures us, <hi>Luke</hi> 10.12.</p>
+            <p>
+               <hi>Be ye therefore followers of God, as dear children, and walk in love, as Chriſt alſo loved us, and has given himſelf for us, an offering and a ſacrifice to God for a ſweet ſmelling ſavour. But fornication and all uncleanneſs, or covetouſneſs, let it not be once na<g ref="char:EOLhyphen"/>med amongst you, as becometh ſaints; neither filthineſs, nor fool<g ref="char:EOLhyphen"/>iſh talking, nor jeſting, which are not convenient; but rather gi<g ref="char:EOLhyphen"/>ving of thanks.</hi>
+            </p>
+            <p>
+               <hi>For this you know,</hi> (or, may be ſure of) <hi>that no whoremonger, uor unclean perſon, nor covetous man, which is an idolater, hath a<g ref="char:EOLhyphen"/>ny
+<pb n="92" facs="tcp:34658:51"/>inheritance in the kingdom of Christ and of God. Let no man deceive you with vain words; for becauſe of theſe things cometh the wrath of God upon the children of diſobedience,</hi> Epheſ. 5.1. <hi>&amp;c.</hi>
+            </p>
+            <p>Let us not therefore flatter our ſelves with a conceit of God's ſingular Favour, whilſt we are the very <hi>Children of Diſobedi<g ref="char:EOLhyphen"/>ence,</hi> we muſt either renounce our Chriſtianity, and our Hopes of Heaven, or renounce our Sins.</p>
+            <p>It is the moſt ridiculous thing in the Word to pretend to ei<g ref="char:EOLhyphen"/>ther of the former, whilſt we continue in the Practice of any evil thing.</p>
+            <p>
+               <hi>The Lord alloweth the righte<g ref="char:EOLhyphen"/>ous; but the ungodly and him that delighteth in wickedneſs doth his ſoul abhor,</hi> Pſal. 11.6.</p>
+            <pb n="93" facs="tcp:34658:51"/>
+            <p>Since therefore ther's no other way to obtain God's Favour, but in being righteous and forſaking all manner of Wickedneſs; ſince the very Principles of our Reli<g ref="char:EOLhyphen"/>gion oblige us to ceaſe from all that is evil, and learn all that is good; let us be ſure to avoid Sin as Men would the Plague, and let us daily <hi>grow in grace,</hi> ac<g ref="char:EOLhyphen"/>cording to St. <hi>Peter</hi>'s Exhorta<g ref="char:EOLhyphen"/>tion, 2 <hi>Pet.</hi> 3.18.</p>
+            <p>Let us be ſure, whatever In<g ref="char:EOLhyphen"/>tereſts we have to ſerve, what<g ref="char:EOLhyphen"/>ever Dealings we may be inga<g ref="char:EOLhyphen"/>ged in, to be always ſtrictly juſt and upright. Let us never uſe any ill Tricks to ſerve our own ends, but in all our Tranſactions with one another; let us deal with that Simplicity and Inte<g ref="char:EOLhyphen"/>grity and good Conſcience, that becomes thoſe who would be ac<g ref="char:EOLhyphen"/>counted
+<pb n="94" facs="tcp:34658:52"/>the Diſciples of the holy Jeſus.</p>
+            <p>Sin is the Tranſgreſſion of a known Law. Now what a hor<g ref="char:EOLhyphen"/>rid thing is it, what Impudence, for mortal Men to do that they know is forbidden by the Al<g ref="char:EOLhyphen"/>mighty Governour of the World, the righteous and impartial Judge of the Quick and the Dead!</p>
+            <p>But (I cannot forbear ſaying it once more) What piece of Madneſs is it for Men to do this, and yet pretend to be God's Ser<g ref="char:EOLhyphen"/>vants, and the Diſciples of the Son of his Love, whom he has ſent into the World a purpoſe to reform the World, and ſhew the ſtray'd Race of Mankind, the way to true Happineſs and Bliſs, in teaching them to <hi>turn from their iniquities,</hi> as it is, <hi>Acts</hi> 3.26.</p>
+            <pb n="95" facs="tcp:34658:52"/>
+            <p>We do infinitely miſtake the Deſign of his Coming, and the Nature of his Religion, if we do not believe that it is to make Men much better and holier than they were before, and indeed to make them as good and as holy as it is poſſible for Men to be.</p>
+            <p>Let us then ſtudy earneſtly his whole Will, and practice it accordingly, leaſt thoſe who have never heard of him, ſhould be accounted better than we.</p>
+            <p>If we will be truly Chriſtians, let it be the earneſt <hi>Endeavour of our Lives to render our ſelves as excellent and as exemplary for all ſort of amiable Qualities, as it is poſſible for Men to be in this World.</hi>
+            </p>
+            <pb n="96" facs="tcp:34658:53"/>
+            <p>
+               <hi>Whatſoever things are true, whatſoever things are honest, whatſoever things are just, what<g ref="char:EOLhyphen"/>ſoever things are pure, whatſoever things are lovely, whatſoever things are of good report: If there be any virtue, and if there be any praiſe, think on theſe things,</hi> Phil. 4.8.</p>
+            <p>
+               <hi>See what your Obligations are! We that have ſuch a glorious light vouchſafed unto us, and ſuch un<g ref="char:EOLhyphen"/>valuable Promiſes, and ſuch migh<g ref="char:EOLhyphen"/>ty Aſſiſtances made over to us by the Goſpel of Christ; must in reaſon imagine that in return of theſe great Advantages, great things are expected from us.</hi>
+            </p>
+            <p>
+               <hi>It will not ſatisfie our En<g ref="char:EOLhyphen"/>gagements that we do believe and profeſs the Goſpel, that we do
+<pb n="97" facs="tcp:34658:53"/>no Wrong to our Neighbours, that we are neither given to Lewdneſs, nor Drunkenneſs; (though yet even theſe, as the World goes, are very great things, and could all Men that profeſs Chri<g ref="char:EOLhyphen"/>ſtianity truly ſay this of them<g ref="char:EOLhyphen"/>ſelves, we ſhould ſoon ſee Heaven upon Earth,) but our Chriſtiani<g ref="char:EOLhyphen"/>ty obliges us to aſpire after greater things, we muſt get our ſelves poſſeſſed of the whole Circle of Vertues; we must be kind and charitable, as well as just and honest; we must he modest, and meek and humble, as well as tem<g ref="char:EOLhyphen"/>perate and chast.</hi>
+            </p>
+            <p>Then (may I add to theſe, excellent Words of an Excellent and moſt Reverend Prelate of our Church) <hi>Then will Christ indeed own us for his Diſciples;
+<pb n="98" facs="tcp:34658:54"/>for then we ſhall be true Subjects to God's Kingdom upon Earth: and if we continue to be ſo unto the end, we ſhall not fail at last to be admited into his most glorious Kingdom in Heaven, where we ſhall enjoy the infinite Pleaſure of Holineſs to everlaſt<g ref="char:EOLhyphen"/>ing Ages.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="99" facs="tcp:34658:54"/>
+            <head>A <hi>Morning</hi> and <hi>Evening</hi> PRAYER.</head>
+            <p>ALmighty God, the Father of our Lord Jeſus Chriſt, the Creator of Men and An<g ref="char:EOLhyphen"/>gels, and the ſupream Govern<g ref="char:EOLhyphen"/>our of the World, in whom, and by whom we move, we live, and have our Beings; who ſheweſt thy ſelf to be perfect<g ref="char:EOLhyphen"/>ly Good and Bountiful, infinite<g ref="char:EOLhyphen"/>ly wiſe and glorious, and per<g ref="char:EOLhyphen"/>fectly juſt and holy.</p>
+            <pb n="100" facs="tcp:34658:55"/>
+            <p>We thy poor Creatures, pro<g ref="char:EOLhyphen"/>ſtrate our ſelves in the deepeſt Humility of our Souls before thy Divine Majeſty, to render unto thee the due Tribute of our Homage and Worſhip, and offer the <hi>Morning, [
+<note n="*">Evening, <hi>if it be at Night.</hi>
+                  </note> Evening]</hi> Sacrifice of our Prayers and Thankſgivings; to beg Pardon for all our Sins and Failings, and implore thy all-ſuf<g ref="char:EOLhyphen"/>ficient Grace, that we may from henceforth ſerve thee better than we have done, and may daily grow in Grace, and in all Chri<g ref="char:EOLhyphen"/>ſtian Vertues; and finally, to ſue for thy Protection and thy moſt gracious Favour, both for our ſelves and all Men.</p>
+            <pb n="101" facs="tcp:34658:55"/>
+            <p>We confeſs, O Lord, we are not worthy to appear before thee, to beg any thing at thy Hands. For thou, O God, lo<g ref="char:EOLhyphen"/>veſt Righteouſneſs and hateſt Iniquity. Thou requireſt Holi<g ref="char:EOLhyphen"/>neſs, and art perfect in all thy ways.</p>
+            <p>But we are miſerable and wretched Creatures, who have not minded our Duty as we ought to have done, nor regard<g ref="char:EOLhyphen"/>ed thy Word, thy Promiſes nor thy Threatings, but have often been ſo unreaſonable as to ſlight thy Commandments, and prefer our Will to thine; as if we had not believed, that thou knoweſt what is beſt for us to do, better than we our ſelves; or as if we had not believed that thou
+<pb n="102" facs="tcp:34658:56"/>ſearcheſt our ways and knoweſt all our Thoughts, and wilt judge the World in Righteouſneſs, and reward every Man according to his Works, at the great and laſt Day, in the which we muſt all appear before the Judgment-ſeat of Chriſt, there to receive the things done in our Bodies, ac<g ref="char:EOLhyphen"/>cording as we ſhall have done, whether it be good or bad.</p>
+            <p>To us, O Lord, belongs Shame and Confuſion. Everlaſting Mi<g ref="char:EOLhyphen"/>ſery muſt inevitably be our Por<g ref="char:EOLhyphen"/>tion, if thou haſt not Compaſſi<g ref="char:EOLhyphen"/>on upon us. For by our Unbe<g ref="char:EOLhyphen"/>lief and Diſobedience we have deſerved the Flames of Hell, and our Folly and Inconſideration hath plunged us into Deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <pb n="103" facs="tcp:34658:56"/>
+            <p>O good Lord, puniſh us not in thine Anger. Suffer us not to periſh for ever, and fall into the bitter pains of Eternal Death. But give us Grace now to re<g ref="char:EOLhyphen"/>pent, actually and ſincerely of all our Sins. And then for the ſake of our bleſſed Saviour, be pleaſed to accept of our hearty and ſincere Repentance. Be merciful unto us, O Lord, be merciful unto us, who are griev<g ref="char:EOLhyphen"/>ed for our Tranſgreſſions, and are aſhamed that we have offend<g ref="char:EOLhyphen"/>ed thee.</p>
+            <p>Help us to contract ſuch ho<g ref="char:EOLhyphen"/>ly Diſpoſitions, that we may ob<g ref="char:EOLhyphen"/>tain the Salvation of our Souls. Give us thy Holy Spirit, we humbly beſeech thee, that we may perfectly hate and forſake
+<pb n="104" facs="tcp:34658:57"/>all Sin, and love and follow af<g ref="char:EOLhyphen"/>ter Righteouſneſs and true Holi<g ref="char:EOLhyphen"/>neſs; and that inſtead of our former Careleſneſs and Neglect of Religion, we may now be<g ref="char:EOLhyphen"/>come earneſt and diligent in learning and practiſing thy whole Will, being always filled with that Zeal and Devotion, which ought to accompany our Pray<g ref="char:EOLhyphen"/>ers, that we may obtain thy Grace and Benediction.</p>
+            <p>Give us a true Contrition, O Lord, for all our Sins, a deep Veneration for thy great Name, a profound Humility, a meek, and charitable, and contented Spirit; and entire Truſt and De<g ref="char:EOLhyphen"/>pendance upon thy all-wiſe Pro<g ref="char:EOLhyphen"/>vidence; and a Chriſtian Hope that may purifie us as thou art pure.</p>
+            <pb n="105" facs="tcp:34658:57"/>
+            <p>Give us Grace to be always prepared againſt all that ſhall happen unto us in this World, reſigning our ſelves entirely into thy Hands.</p>
+            <p>Give us the Wiſdom that is from above, which is pure, peace<g ref="char:EOLhyphen"/>able, gentle and eaſie to be in<g ref="char:EOLhyphen"/>treated, full of Mercy, and of good Fruits.</p>
+            <p>O give us that Peace which the World cannot give, and which ſurpaſſeth all Underſtanding, and fill our Hearts with that bleſſed Joy, which is a continual Feaſt, and a perpetual Comfort, and is no where to be found, but in a holy Mind, and a good Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <pb n="106" facs="tcp:34658:58"/>
+            <p>And particularly, we pray thee, give us a due ſence of all thy Benefits, that we may never be ſo ungrateful as to for<g ref="char:EOLhyphen"/>get how many good things we have received from thee.</p>
+            <p>Bleſſed be thou, O good God, for all thy Temporal and Spiri<g ref="char:EOLhyphen"/>tual Bleſſings. Bleſſed be thou that thou haſt been ſo good and kind to us, notwithſtanding all our Provocations, that we are ſtill alive, and that thou haſt pre<g ref="char:EOLhyphen"/>ſerved us to this Hour, and haſt waited for our Repentance with ſo much Patience and Long-for<g ref="char:EOLhyphen"/>bearance.</p>
+            <p>And for ever bleſſed be thy good Name, for the ineſtimable Hope thou haſt ſet before us, by
+<pb n="107" facs="tcp:34658:58"/>the Mediation of thy Son our Saviour, whom thou haſt ſent to make Propitiation for all true Penitents, and to bleſs us, and lead us into the way of Happi<g ref="char:EOLhyphen"/>neſs, in turning every one of us from his Sins; who therefore has brought Life and Immorta<g ref="char:EOLhyphen"/>lity to light through the Goſ<g ref="char:EOLhyphen"/>pel, and hath ſo powerfully call<g ref="char:EOLhyphen"/>ed us to Glory and Vertue, by exceeding great and precious Promiſes, that by theſe we might be Partakers of the Divine Na<g ref="char:EOLhyphen"/>ture, having eſeaped the Cor<g ref="char:EOLhyphen"/>ruption that is in the World through Luſt.</p>
+            <p>O Infinite Goodneſs, to ſnatch us from Death, and lead us in the way of Eternal Life! How ſhall we eſcape, if we neglect that great Salvation? Good God,
+<pb n="108" facs="tcp:34658:59"/>ſince the Bleſſed Jeſus ſhed his precious Blood, to redeem us from all Iniquity, that he might deliver us from this preſent evil World, to make us New Crea<g ref="char:EOLhyphen"/>tures, holy and pure, to live with thee eternally in Heaven: O may we become a peculiar People unto thee, zealous of all good Works, that through our Vileneſs, we make not the Blood of thy Son ineffectual to the ſa<g ref="char:EOLhyphen"/>ving of our Souls, and ſo looſe the Benefits of his Redemption! May we ever ſubmit our ſelves unto thee, and live ſoberly, juſt<g ref="char:EOLhyphen"/>ly, and godly in this preſent World, and work out our Salva<g ref="char:EOLhyphen"/>tion with Fear and Trembling, till we arrive at laſt to a happy Death, and remit our Spirits in<g ref="char:EOLhyphen"/>to thy Hands.</p>
+            <pb n="109" facs="tcp:34658:59"/>
+            <p>Suffer us not, O Lord, to luſt after evil things, to fix our Hearts and place our Affections upon the things of this World, nor to be reſtleſs and impatient for any Enjoyment of it. Make us more and more ſenſible of the Uncertainty and Vanity of all worldly things, and of our own Unworthineſs, of the leaſt Good we enjoy, that we may be con<g ref="char:EOLhyphen"/>tent to want the Pleaſures and Comforts of this World, and if it be thy Will, endure patiently its Croſſes and Troubles, ſo at laſt we do but obtain Heaven, and for ever eſcape thoſe dread<g ref="char:EOLhyphen"/>ful and everlaſting Torments of Hell, which we have righteouſ<g ref="char:EOLhyphen"/>ly and often deſerved.</p>
+            <pb n="110" facs="tcp:34658:60"/>
+            <p>Have Pity, O Lord, upon the whole Race of Mankind. More particularly, take thy Church, we humbly beſeech thee, into thy ſpecial Care and Protection. There is none that fighteth for us, but thou, O God. O let not thy Truth fail in the World; grant that all Men may come to the Knowledge of our Lord Jeſus Chriſt, that we may all ſerve thee unanimouſly un<g ref="char:EOLhyphen"/>der his Banner; and having conquered the World, the Fleſh, and the Devil, whilſt we follow the Captain of our Salvation, we may enjoy the bleſſed Effects of that glorious Victory, in mu<g ref="char:EOLhyphen"/>tual Love and univerſal Charity, and ſo attain to the Felicity of the Kingdom of Heaven.</p>
+            <pb n="111" facs="tcp:34658:60"/>
+            <p>Bleſs and protect our Sove<g ref="char:EOLhyphen"/>reign, whom thou haſt ſet over us. Defend him in all Dangers, and give him good Succeſsagainſt his Enemies, and the Enemies of our holy Religion. Bleſs and preſerve our gracious Queen, and the Royal Family. Grant to all that are put in Authority under them, that they may tru<g ref="char:EOLhyphen"/>ly and indifferently miniſter Ju<g ref="char:EOLhyphen"/>ſtice, to the Puniſhment of Wick<g ref="char:EOLhyphen"/>edneſs and Vice, and to the Maintenance of thy true Religi<g ref="char:EOLhyphen"/>on and Vertue. Bleſs all thoſe that miniſter unto us the Word of Life, that they may ſave them<g ref="char:EOLhyphen"/>ſelves, and thoſe that hear them.</p>
+            <p>Be good and gracious, we be<g ref="char:EOLhyphen"/>ſeech thee, to all our Relations, our Friends, and Benefactors.
+<pb n="112" facs="tcp:34658:61"/>Pour thy Bleſſings upon this whole Family, and all thoſe a<g ref="char:EOLhyphen"/>mong whom we live. Put thy Fear and thy Love in our Hearts, that we may live comfortably, like Brethren and Chriſtians, one with another.</p>
+            <p>Have mercy, O good Lord, upon all that are in Trouble, Sorrow, Need, Sickneſs, or any other Adverſity, and thoſe eſpe<g ref="char:EOLhyphen"/>cially to whom our Prayers are due, ſuccour and relieve them, comfort them with the Hopes of a better and eternal Life, and fit them for that bleſſed Life.</p>
+            <p>Pardon our Enemies, give us Grace to love them and do good unto them, and them Grace to repent, that we may all live bet<g ref="char:EOLhyphen"/>ter than we have done for the
+<pb n="113" facs="tcp:34658:61"/>time paſt, that we may all be Partakers of thy Salvation. O give us Grace daily to amend what is amiſs in us, that we may go on unto Perfection, and may be ſo happy as to enjoy the Plea<g ref="char:EOLhyphen"/>ſures of divine Love and Holineſs to Eternity.</p>
+            <p>Take us all this Day, [Night] O Lord, into thy good and mighty Protection. [
+<note n="*">That is to be ſaid in the Morning, but omitted at Night.</note> Give us Grace to do and undertake no<g ref="char:EOLhyphen"/>thing, but what we are ſure is agreeable to thy Will, and to thy Glory, and the Salvation of our Souls; and then let thy Bleſſing be up<g ref="char:EOLhyphen"/>on all our Endeavours. O may we ſo live, that we may be al<g ref="char:EOLhyphen"/>ways prepared for Death.]</p>
+            <pb n="114" facs="tcp:34658:62"/>
+            <p>[
+<note n="*">This to be ſaid at Night.</note> Grant us a com<g ref="char:EOLhyphen"/>fortable Reſt and Sleep, that we may be the better fit for our Duty the next Day. And give us Grace, O Lord, when we lie down in our Beds, always to remember that the time will ſhortly come, when we ſhall lie down in our Graves; that by ſerious thoughts and a holy Life we may timely prepare for our Death.] So that whenever it comes, we may not feel the Horrours and Tor<g ref="char:EOLhyphen"/>ments of a guilty Mind, but may be fit and content to leave this World, and looking upon Death only as a Paſſage to a far better, we may receive it with that Re<g ref="char:EOLhyphen"/>ſolution and Conſtancy as be<g ref="char:EOLhyphen"/>comes them that hope for Eter<g ref="char:EOLhyphen"/>nal Life.</p>
+            <pb n="115" facs="tcp:34658:62"/>
+            <p>Grant this, O moſt merciful Father, for the Bleſſed Jeſus his ſake, who has taught us, when we pray, thus to ſay,</p>
+            <p>
+               <hi>Our Father,</hi> &amp;c.</p>
+            <q>The Grace of our Lord Jeſus Chriſt, and the Love of God, and the Fellowſhip of the Holy Ghoſt, be with us all ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+            </q>
+         </div>
+         <div type="recapitulation">
+            <pb n="116" facs="tcp:34658:63"/>
+            <head>THE RECAPITULATION, WITH A <hi>Prayer</hi> and an <hi>Exhortation</hi> TO ALL <hi>Who deſire to lead Chriſtian Lives, to be conſtant in</hi> PRAYER.</head>
+            <p>REpentance is a change of Mind, that ſhews it ſelf to be read by all our Actions, which then are contrary to our former Practices.</p>
+            <p>Nothing abſolutely can be Repentance, in religious Mat<g ref="char:EOLhyphen"/>ters, but an actual forſaking of Sin, <hi>ceaſing to do evil, and learning
+<pb n="117" facs="tcp:34658:63"/>to do well,</hi> Iſa. 1.16.17. and contracting all the Habits of Ver<g ref="char:EOLhyphen"/>tue.</p>
+            <p>Chriſtianity is a ſtate of Puri<g ref="char:EOLhyphen"/>ty and Holineſs. It is Repent<g ref="char:EOLhyphen"/>ance perfected, and an entire Conformity to the Will of God.</p>
+            <p>The three general Heads of the Chriſtian Religion, are</p>
+            <p>Piety towards God,</p>
+            <p>Juſtice towards all Men,</p>
+            <p>And Sobriety in reſpect of our ſelves.</p>
+            <p>That is <hi>the Kingdom of God,</hi> or <hi>the Kingdom of Heaven,</hi> and that Heavenly Conſtitution and Government which is agreeable to the Nature of God, and is as much unalterable as his Nature.</p>
+            <p>It is therefore impoſſible for a Man to be a Chriſtian, that is a
+<pb n="118" facs="tcp:34658:64"/>faithful Subject of <hi>the kingdom of Heaven,</hi> if he has not repent<g ref="char:EOLhyphen"/>ed of all his Sins; ſince to be a Chriſtian is <hi>to live ſoberly, righ<g ref="char:EOLhyphen"/>teouſly and godly,</hi> Tit. 2.11, 12, 13, 14. from a Principle of Faith in Jeſus Chriſt, in Obedience to his Commands, and in Expecta<g ref="char:EOLhyphen"/>tion of his Promiſes.</p>
+            <p>No Doctrine can be more antichriſtian, more contrary to, nor more deſtructive of the De<g ref="char:EOLhyphen"/>ſign of the Goſpel, than ſuch as encourage Vice, or allow Men in a loofe way of living.</p>
+            <p>They are infinitely miſtaken, who fancy the Eſſence of Religi<g ref="char:EOLhyphen"/>on to conſiſt in Speculation and not in Practice. Saving Faith is an operative Faith, <hi>a faith that worketh by charity,</hi> Gal. 5.6. The end of Revelation is our <hi>Sanctification,</hi> 1 Theſſ. 4.1, 2,
+<pb n="119" facs="tcp:34658:64"/>3, <hi>&amp;c.</hi> The <hi>turning us away from our iniquities,</hi> Acts 3.26. which otherwiſe would prove <hi>our ru<g ref="char:EOLhyphen"/>ine,</hi> Ezek. 18.30.</p>
+            <p>It is therefore a groſs Error to think there's any thing revealed that has no Influence upon Pra<g ref="char:EOLhyphen"/>ctice, and is not deſigned and conducive to the Converſion of the World, and the Amendment of our Manners. Thoſe then that undervalue and vilifie Mo<g ref="char:EOLhyphen"/>rality, vilifie and undervalue the Chriſtian Faith and Religion. We ſee plainly in Scripture that the end of Faith is Holineſs (it is required to no other end, than that <hi>believing we might have life,</hi> John 20.31. Which is not to be attained unto <hi>without holi<g ref="char:EOLhyphen"/>neſs,</hi> for <hi>without it no man ſhall ſee the Lord,</hi> Heb. 11.14. and none but <hi>the just ſhall live by faith,</hi>
+               <pb n="120" facs="tcp:34658:65"/>Hebr. 10.38. For <hi>that which is altogether just, we must follow,</hi> and we muſt <hi>ſeek good,</hi> and <hi>do God's commandments that we may live,</hi> Dent. 16.20. Amos 5.14. Matth. 19.17. Luk. 10.28. and true Morality is true Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>For true Morality is an enaxt Conformity of our Lives and Actions, of our Thoughts, Words and Deeds to the eternal Laws of right Reaſon, naturally (that is by God himſelf) imprinted up<g ref="char:EOLhyphen"/>on our Conſciences, and as it were reprinted, and that more deeply by the Goſpel of his Son.</p>
+            <p>Our grand Buſineſs therefore, is to ſtudy from our Duty (from a Principle of Faith) to have it perſect, and to practiſe it accord<g ref="char:EOLhyphen"/>ingly. As we have any ſerious
+<pb n="121" facs="tcp:34658:65"/>Concern for our Souls, we muſt neglect nothing that is neceſſary and conducive to that end, to the purifying (that is) of our Spirits, and making us holy. We muſt proſecute the means of Grace with all the Earneſtneſs and Dili<g ref="char:EOLhyphen"/>gence imaginable. For it is but a folly to pretend to the Name of Chriſtians, if we do not live according to the Rules of Chri<g ref="char:EOLhyphen"/>ſtianity, and do not govern our ſelves according to the Laws of <hi>the kingdom of Heaven.</hi>
+            </p>
+            <p>Repentance is but the Prepa<g ref="char:EOLhyphen"/>rative to Chriſtianity. He that intends to live the Devil's Sub<g ref="char:EOLhyphen"/>ject, as long as he can enjoy his Life and Health, (though he is loath to have his Portion with the Devil in the other World, and deſigns to repent upon his Death.
+<pb n="122" facs="tcp:34658:66"/>bed is reſolved not to be a Chri<g ref="char:EOLhyphen"/>ſtian whilſt he lives.</p>
+            <p>The Deſign of the Chriſtian Religion is to make Men as Good and Holy, as it is poſſible for Men to be. And our bleſ<g ref="char:EOLhyphen"/>ſed Saviour has taught us ex<g ref="char:EOLhyphen"/>preſly, that it is not the crying, <hi>Lord, Lord,</hi> will ſerve to <hi>enter into the kingdom of Heaven, but the doing of the will of God,</hi> Matth. 7.21.</p>
+            <p>As we deſire then to be ad<g ref="char:EOLhyphen"/>mitted one Day into Heaven, Let us from this Moment con<g ref="char:EOLhyphen"/>form to its Divine Laws, and let us deteſt and abhor all thoſe Antichriſtian Traditions, which <hi>make the commandments of God of none effect,</hi> Matth. 15.6.</p>
+            <p>
+               <hi>God hath not called us unto uncleanneſs, but unto holineſs.</hi> 1 Theſſ. 4.7.</p>
+            <pb n="123" facs="tcp:34658:66"/>
+            <p>In particular, let all that ſhall be willing to ſtrive to enter in<g ref="char:EOLhyphen"/>to the Gates of Righteouſneſs, and ſhall be perſwaded of the Obligation and Neceſſity of a good Life, be conſtant in Pray<g ref="char:EOLhyphen"/>er.</p>
+            <p>Prayer is not only a Duty of Religion, which we cannot o<g ref="char:EOLhyphen"/>mit without a defiance of Chriſt's Precepts and Authority, and a profeſt Contempt of <hi>that great ſalvation, which was ſpoken by the Lord,</hi> Hebr. 2.3. But it is alſo the beſt means in the World to become truly religious.</p>
+            <p>A Man is never entirely re<g ref="char:EOLhyphen"/>formed, till a new Principle go<g ref="char:EOLhyphen"/>verns his Thoughts, and nothing makes that Principle ſo ſtrong, as frequent Addreſſes to God, and ſerious and deep Meditations of his Nature and Will, of all the
+<pb n="124" facs="tcp:34658:67"/>Benefits we have received, and do ſtill receive daily from him, the Engagements and Obliga<g ref="char:EOLhyphen"/>tions we are in to ſerve and obey him, the great Neglect we've bin guilty of in a Buſineſs ſo vaſtly concerning, and how much rea<g ref="char:EOLhyphen"/>ſon there is to ſet more earneſt<g ref="char:EOLhyphen"/>ly about it than ever.</p>
+            <p>The Effects of ſuch Addreſſes to God, and of ſuch Meditati<g ref="char:EOLhyphen"/>ons, beſides the Grace of God we draw upon us thereby, (which is promiſed to our Pray<g ref="char:EOLhyphen"/>ers) are very ſenſible; they make very evidently the Ap<g ref="char:EOLhyphen"/>prehenſions of God, and the Obligations of Religion have a deeper Root, and a ſtronger In<g ref="char:EOLhyphen"/>fluence on us.</p>
+            <p>We muſt not imagine God demands our Prayers and Thankſgivings, as if he recei<g ref="char:EOLhyphen"/>ved
+<pb n="125" facs="tcp:34658:67"/>any Benefit from them, any Addition to his Happineſs, was fond to hear himſelf entreated and commended, or was not of himſelf willing to do us good, but muſt be overcom'd, as it were through meer Importunity, by many repeated Addreſſes.</p>
+            <p>But Experience teaches us how apt they are to create in us a vigorous ſence of God, our Duty, and Eternal Intereſt, and how neceſſary to preſerve it; ſince any conſiderable neglect therein bereaves us by degrees of that devout and zealous Tem<g ref="char:EOLhyphen"/>per, which is the chief Root of all true Holineſs and Ver<g ref="char:EOLhyphen"/>tue.</p>
+            <p>It was not for nothing our Bleſſed Saviour ſpent ſo many hours, both day and night, in Meditation and Prayer.</p>
+            <pb n="126" facs="tcp:34658:68"/>
+            <p>It was not for nothing he ſet ſo good an Example to us, and gave us an expreſs Command, to <hi>watch and pray alwaies, Luke</hi> 21.36. and his Apoſtle after him, exhorts us to <hi>continue in Prayer, and watch in the ſame with Thankſgiving, Col.</hi> 4.2.</p>
+            <p>Would not one gueſs Chriſti<g ref="char:EOLhyphen"/>ans, after this, to be the moſt devout men in the World, and the moſt conſtant in Prayer? Yet 'tis nothing ſo.</p>
+            <p>He had not the advantage of the Goſpel of Chriſt, that ſang unto God; <hi>I have remembred thy Name, O Lord, in the night, and have kept thy Law; ſeven times a day do I praiſe thee; in the night-ſeaſon I am not ſilent; I call to remembrance my Song in the night; I commune with mine own Heart, and my Spirit makes
+<pb n="127" facs="tcp:34658:68"/>diligent ſearch, Pſal.</hi> 119.55. &amp; 164. <hi>Pſ.</hi> 22.2. &amp; 77.6.</p>
+            <p>Even the <hi>Mahumetans,</hi> we are told, fearing that a whole Night would cauſe too great an Interval between their <hi>Devo<g ref="char:EOLhyphen"/>tions,</hi> interrupt their <hi>Sleep,</hi> and riſe conſtantly every night to ſpend ſome of that time in <hi>Prayer.</hi>
+            </p>
+            <p>But we, who have the Son of God for our Maſter and Tea<g ref="char:EOLhyphen"/>cher, nay, for our Guide and Pattern; we that are comman<g ref="char:EOLhyphen"/>ded to <hi>pray without ceaſing,</hi> 1 <hi>Theſſ.</hi> 5.17. that is, conſtant<g ref="char:EOLhyphen"/>ly; how cold and careleſs are we in the performance of this Duty! There are but few of thoſe that call themſelves Chri<g ref="char:EOLhyphen"/>ſtians, will ſpend ſo much as an hour in the day in God's Ser<g ref="char:EOLhyphen"/>vice: If ever they pray God,
+<pb n="128" facs="tcp:34658:69"/>'tis but by Fits: And how un<g ref="char:EOLhyphen"/>eaſie and unattentive are the moſt part of them all the while! Strange! We ſcandalize our Neighbours, and thoſe we live and converſe with, often per<g ref="char:EOLhyphen"/>haps in a day. It would make ſome reparation, if preſently after we gave them the Marks of our Sorrow and Repentance, by our Devotion, and the con<g ref="char:EOLhyphen"/>ſtancy, earneſtneſs, and ferven<g ref="char:EOLhyphen"/>cy of our Prayers: But, alas! how little is this minded! What makes us ſo dull and ſottiſh in the things that concern the Ser<g ref="char:EOLhyphen"/>vice of God, and the eternal Salvation of our Souls, when we are ſo ſagacious, ſo earneſt and vigilant about poor momentany concerns?</p>
+            <pb n="129" facs="tcp:34658:69"/>
+            <p>For ſhame let's no longer be ſo very childiſh and fooliſh: If we'll act ſeriouſly and rationally, to mean and do as we profeſs, we muſt either renounce the Name of Chriſt, or become <hi>new Creatures,</hi> that we may be holy, as our Bleſſed Lord is holy, and as his Divine Religion indiſpen<g ref="char:EOLhyphen"/>ſably obligeth us to be.</p>
+            <p>There are a great many that name the Name of <hi>CHRIST,</hi> who riſe, eat and drink, follow their Worldly Buſineſs, lye down at night, and ſcarce ever think of God all the while, tho they can<g ref="char:EOLhyphen"/>not ſubſiſt one moment without Him, and they receive from Him daily, nay, hourly innumerable Benefits. They pretend to be the Diſciples and Followers of the Son of God, and yet they are perfect Strangers with God.</p>
+            <pb n="130" facs="tcp:34658:70"/>
+            <p>It's no wonder therefore there is ſo little Zeal, ſo little Charity, and ſo much Malice and Wic<g ref="char:EOLhyphen"/>kedneſs, to be ſeen among thoſe that are called Chriſtians: But it is not to be queſtion'd, we ſhould ſoon ſee, with the Bleſſing of God, that primitive Chriſtian Purity break forth, and ſhine again in the midſt of us, if Men would be perſwaded to uſe conſtant Devotions in their Fa<g ref="char:EOLhyphen"/>milies.</p>
+            <p>Many excuſe themſelves, as if they were not able, or had not the Time and Opportunity to perform them: Yet they can find the time and opportunity to meet together for their Re<g ref="char:EOLhyphen"/>paſts, Morning and Evening: And why not to pray God, and conſult his Word? Are the Con<g ref="char:EOLhyphen"/>cerns of this World and this
+<pb n="131" facs="tcp:34658:70"/>Body ſo precious, as to be more worth than our Souls?</p>
+            <p>And is it not ſtrange, that thoſe that have the Word of God in their Hands, and have often heard it read and expoun<g ref="char:EOLhyphen"/>ded, ſhould not know what great Obligation God has laid, and daily heaps on them, for which they are to thank him, and praiſe his Holy Name; what Failings they have been ſubject to, which they are to beg Pardon for, and pray againſt, that they may never be guilty of them; and what things they ſtand in need of, which they are to beg of God? And do they not know we are to <hi>pray one for another,</hi> 1 <hi>Tim.</hi> 2.1. and are commanded to <hi>make Sup<g ref="char:EOLhyphen"/>plications, Prayers, Interceſſions, and Thankſgivings for all men?</hi>
+            </p>
+            <pb n="132" facs="tcp:34658:71"/>
+            <p>Let none think to excuſe him<g ref="char:EOLhyphen"/>ſelf becauſe he is not eloquent: <hi>Out of the abundance of the Heart the Mouth ſpeaketh, Luke</hi> 6.45. He that cannot pray, cannot be a Chriſtian. There's no man, tho' never ſo mean, but can rea<g ref="char:EOLhyphen"/>ſon pertinently of his Buſineſs. It is a ſign he doth not look up<g ref="char:EOLhyphen"/>on Religion as his Buſineſs, that can ſay nothing of it.</p>
+            <p>But, are Scholars only, and Learned men, commanded to pray? Or, is it a Duty incum<g ref="char:EOLhyphen"/>bent upon All? And is it our Words and Phraſes God looks at, and not the pious Diſpoſitions of our Souls rather?</p>
+            <p>In fine, Has not our Church put moſt excellent Prayers into our Hands? And have we min<g ref="char:EOLhyphen"/>ded them ſo little all this while, as to remember nothing of them?
+<pb n="133" facs="tcp:34658:71"/>That thoſe that ſhall meet with theſe Papers may be abſolutely without Excuſe, I conclude with a Prayer, that may ſerve both for Morning and Evening. They that have ſo much Piety, as not to think that time loſt, which is ſpent in Devotion, will not complain of its length: And as for them that are otherwiſe di<g ref="char:EOLhyphen"/>ſpos'd, it's no matter what they ſhall think of it.</p>
+            <p>I have but one thing to add by way of Caution, to thoſe that ſhall uſe this or any other Form of Prayer, that is, To take care they let not their Tongue run faſter than their Underſtanding, but (conſidering to whom it is they ſpeak, namely, to Him who is to be worſhipped in <hi>Spirit and in Truth</hi>) let their
+<pb n="134" facs="tcp:34658:72"/>Hearts ever accompany their Words; and then they may be ſure, that <hi>the LORD,</hi> (who is far from the Wicked) <hi>will hear the Prayer of the Righ<g ref="char:EOLhyphen"/>teous, Prov.</hi> 15.29.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <p>☞ By Miſtake at the Preſs, the <hi>Recapitu<g ref="char:EOLhyphen"/>lation,</hi> which ſhould have followed next after the <hi>Diſcourſe, &amp;c.</hi> is put after the <hi>Prayer.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34658:72"/>
+            <head>
+               <hi>Books Printed for</hi> William Rogers.</head>
+            <p>A Perſwaſive to frequent Communion in the Holy Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per, 12<hi rend="sup">o</hi>. The eighth Edition; price bound ſix pence, in 8<hi rend="sup">o</hi> ſtitcht 3 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Sermon preach'd before the King and Queen at <hi>Whitehall,</hi> the 27. of <hi>October,</hi> being the day appointed for a publick Thankſgi<g ref="char:EOLhyphen"/>ving to Almighty God for the ſignal Victory at Sea, for the preſervation of His Majeſty's Sacred Perſon, and for his ſaſe Return to his People, 4.</p>
+            <p>Both by the moſt Reverend Father in God <hi>John</hi> Lord Archbiſhop of <hi>Canterbury.</hi>
+            </p>
+            <p>Of the Wiſdom and Goodneſs of Provi<g ref="char:EOLhyphen"/>dence; two Sermons preached before the Queen at <hi>Whitehall,</hi> on <hi>Aug.</hi> 17. &amp; 24. 1690. 4<hi>to.</hi>
+            </p>
+            <p>Of Religious Melancholy; a Sermon prea<g ref="char:EOLhyphen"/>ched before the Queen at <hi>Whitchall, March</hi> 6. 1691/2.</p>
+            <p>Both by the Right Reverend Father in God, <hi>John</hi> Lord Biſhop of <hi>Norwich.</hi>
+            </p>
+            <pb facs="tcp:34658:73"/>
+            <p>A Practical Diſcourſe concerning Death, in 8<hi rend="sup">o</hi>. price 3 <abbr>
+                  <hi>s.</hi>
+               </abbr> in 12<hi rend="sup">o</hi>. price 2 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>A Practical Diſcourſe concerning a Future Judgment, 8<hi rend="sup">o</hi>.</p>
+            <p>The Charity of Lending without Uſury, and the true Notion of Uſury briefly ſtated: In a Sermon preached before the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Mayor at St. <hi>Bridget's</hi> Church on <hi>Tueſday</hi> in <hi>Eaſter</hi>-week 1692. 4<hi rend="sup">o</hi>.</p>
+            <p>Theſe three by <hi>William Sherlock,</hi> D. D. Dean of St. <hi>Pauls,</hi> Maſter of the Temple, and Chaplain in ordinary to Their Majeſties.</p>
+            <p>The neceſſity of Serious Conſideration and Speedy Repentance, as the only way to be ſafe both living and dying, 8<hi rend="sup">o</hi>. price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>The Folly of Atheiſm demonſtrated to the Capacity of the moſt unlearned Reader, 8<hi rend="sup">o</hi>. price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>The Lambs of Chriſt fed with the Sincere Milk of the Word; in a ſhort Scripture-Ca<g ref="char:EOLhyphen"/>techiſm, in 12<hi rend="sup">o</hi>. price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Theſe three by the Reverend Mr. <hi>Clement Elis,</hi> Rector of <hi>Kirkby</hi> in <hi>Nottingham-ſhire.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
